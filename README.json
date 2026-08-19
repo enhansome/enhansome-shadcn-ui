@@ -1,84 +1,9 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "Libs and Components"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Registries"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Plugins and Extensions"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Colors and Customizations"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Animations"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Websites and Portfolios"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Platforms"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Ports"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Design System"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Boilerplates / Templates"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Star History"
-    },
-    {
-      "description": "Thanks goes to all these wonderful people:",
-      "items": [],
-      "title": "Contributors"
-    },
-    {
-      "description": "This project is licensed under the MIT License - see the LICENSE file for details.",
-      "items": [],
-      "title": "License"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Development & Contributing"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-19T04:11:14.816Z",
+    "last_updated": "2026-08-19T12:51:45.256Z",
     "original_repository": "birobirobiro/awesome-shadcn-ui",
+    "original_repository_id": 753271457,
     "original_repository_sha": "85891816d43fdcdcb9b0c4706786d60eafab48d3",
     "enhanced_repository": "enhansome/enhansome-shadcn-ui",
     "enhanced_repository_description": null,
