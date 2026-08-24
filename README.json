@@ -1,7 +1,3755 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "adapttable",
+          "description": "Data table for shadcn/ui in one import — URL-synced state, declarative filters with chips, column management and virtualization. Unstyled core pre-wired with the shadcn class preset. Link 2026-07-11",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1256905511,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T20:39:40Z",
+            "owner": "orwa-mahmoud",
+            "repo": "adapttable",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "animated-header",
+          "description": "Vercel-like animated header. Link 2025-10-25T16:09:52.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1079579069,
+            "language": "TypeScript",
+            "last_commit": "2026-02-03T19:59:22Z",
+            "owner": "mehrdadrafiee",
+            "repo": "animated-header",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "animated-tabs",
+          "description": "Vercel-like animated tabs. Link 2025-04-06T14:14:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 961265051,
+            "language": "TypeScript",
+            "last_commit": "2026-02-03T19:57:00Z",
+            "owner": "mehrdadrafiee",
+            "repo": "animated-tabs",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "assistant-ui",
+          "description": "React Components for AI Chat. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 722184017,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:49:54Z",
+            "owner": "assistant-ui",
+            "repo": "assistant-ui",
+            "stars": 11808
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "audio/ui",
+          "description": "A set of accessible and composable Audio UI components. Built on top of shadcn/ui, it's designed for you to copy, paste, and own. Link 2025-11-20T13:31:44.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 853906820,
+            "language": "TypeScript",
+            "last_commit": "2026-07-27T21:46:12Z",
+            "owner": "ouestlabs",
+            "repo": "audio-ui",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "auto-form",
+          "description": "A React component that automatically creates a shadcn/ui form based on a zod schema. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 669080455,
+            "language": "TypeScript",
+            "last_commit": "2026-07-15T09:18:04Z",
+            "owner": "vantezzen",
+            "repo": "autoform",
+            "stars": 3486
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "big-calendar",
+          "description": "A modern, feature-rich calendar application with multiple viewing options built using Next.js, TypeScript, and Tailwind CSS. Link 2025-03-08T12:16:18.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 932384994,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T19:08:20Z",
+            "owner": "lramos33",
+            "repo": "big-calendar",
+            "stars": 1045
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "billingsdk",
+          "description": "Modern, type-safe billing and subscription management components for React, built with TypeScript and Tailwind CSS. Designed to work seamlessly alongside shadcn/ui byDodo Payments. GitHub Link 2025-09-06T21:28:00.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1034520943,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T07:46:34Z",
+            "owner": "dodopayments",
+            "repo": "billingsdk",
+            "stars": 500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "billui",
+          "description": "Open source billing components for React built with Shadcn. Pricing cards, payment methods, invoice history and more. Link 2025-12-25T13:27:40.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1118476588,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T11:54:51Z",
+            "owner": "commet-labs",
+            "repo": "billui",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blocks.so",
+          "description": "A set of clean, modern building blocks to copy and paste into your apps. Works with all React frameworks. Link 2025-09-06T21:28:00.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 952617817,
+            "language": "TypeScript",
+            "last_commit": "2026-07-10T16:44:51Z",
+            "owner": "ephraimduncan",
+            "repo": "blocks",
+            "stars": 1730
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "calendar",
+          "description": "React/shadcn full calendar like Google Calendar Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 906349719,
+            "language": "TypeScript",
+            "last_commit": "2025-02-10T21:26:26Z",
+            "owner": "charlietlamb",
+            "repo": "calendar",
+            "stars": 567
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "calendar-schedular",
+          "description": "A multi-purpose calendar component built on top of date-fn and shadcn-ui Link 2026-04-10T13:54:53.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1204113295,
+            "language": "TypeScript",
+            "last_commit": "2026-05-08T12:07:33Z",
+            "owner": "r2hu1",
+            "repo": "calendar",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "calendar-cn",
+          "description": "A beautifully crafted calendar component built with shadcn/ui and Tailwind CSS, inspired by Notion Calendar. Week view, dark mode, and more. Link 2026-03-05T16:05:18.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1132314711,
+            "language": "TypeScript",
+            "last_commit": "2026-05-21T15:34:38Z",
+            "owner": "vmnog",
+            "repo": "calendarcn",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capture-photo",
+          "description": "Browser-based React component for camera functionalities in web applications. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 795722271,
+            "language": "TypeScript",
+            "last_commit": "2024-05-04T07:34:41Z",
+            "owner": "UretzkyZvi",
+            "repo": "capture-photo",
+            "stars": 200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "carouselcn",
+          "description": "Copy-paste carousel components and examples for your react apps Link 2026-01-27T22:07:41.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1132347662,
+            "language": "TypeScript",
+            "last_commit": "2026-02-14T17:25:20Z",
+            "owner": "mnove",
+            "repo": "carouselcn",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cascader-shadcn",
+          "description": "A cascading dropdown menu component for selecting hierarchical data like locations, categories, or organizational structures. Link 2025-12-04T15:21:56.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1109570383,
+            "language": "TypeScript",
+            "last_commit": "2025-12-04T05:00:34Z",
+            "owner": "Ademking",
+            "repo": "cascader-shadcn",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clerk-shadcn-theme",
+          "description": "Synchronize Clerk SignIn/SignUp components with shadcn/ui styles. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 718331381,
+            "language": "CSS",
+            "last_commit": "2025-06-13T17:13:15Z",
+            "owner": "stormynight9",
+            "repo": "clerk-shadcn-theme",
+            "stars": 213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "commerce-ui",
+          "description": "Components, blocks and examples to build e-commerce storefronts and apps. Link 2025-02-20T17:48:50.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 922866206,
+            "language": "TypeScript",
+            "last_commit": "2025-09-01T12:28:23Z",
+            "owner": "stackzero-labs",
+            "repo": "ui",
+            "stars": 264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "componentry",
+          "description": "Beautiful Animated UI Components for React Effortlessly add polished, production-ready interactions to your projects, with the styling and animations already handled. Browse components Link 2026-07-16",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1122361779,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T07:25:13Z",
+            "owner": "harshjdhv",
+            "repo": "componentry",
+            "stars": 460
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "confirm-dialog",
+          "description": "A confirm dialog component built with shadcn/ui. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 822892240,
+            "language": "TypeScript",
+            "last_commit": "2026-02-18T22:48:19Z",
+            "owner": "Aslam97",
+            "repo": "react-confirm-dialog",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "country-state-dropdown",
+          "description": "Component built with Nextjs, Tailwindcss, shadcn/ui & Zustand. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 733393322,
+            "language": "TypeScript",
+            "last_commit": "2024-06-05T04:04:08Z",
+            "owner": "Jayprecode",
+            "repo": "country-state-dropdown",
+            "stars": 262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "creatorem/ui",
+          "description": "Missing awesome shadcn components (like Tour, Stepper, QRCode Motion Dialog -> to imitate native behaviour ...) built on top of radix primitives and motion. Link 2025-10-25T16:07:32.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1077575998,
+            "language": "TypeScript",
+            "last_commit": "2026-07-23T19:21:10Z",
+            "owner": "creatorem",
+            "repo": "ui",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "credenza",
+          "description": "Ready-made responsive modal component for shadcn/ui. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 737234878,
+            "language": "TypeScript",
+            "last_commit": "2025-11-15T21:22:03Z",
+            "owner": "redpangilinan",
+            "repo": "credenza",
+            "stars": 897
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crypto-charts",
+          "description": "Crypto charts made for shadcn/ui using PythNetwork. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 825426672,
+            "language": "TypeScript",
+            "last_commit": "2025-08-20T15:01:17Z",
+            "owner": "jstnw10",
+            "repo": "crypto-charts",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "custom-admin-dashboard",
+          "description": "A minimal, open-source ecommerce admin dashboard template built with shadcn/ui and Next.js. Includes products, products creation and details page, order, customer, and settings pages. Link 2025-09-06T21:28:00.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1049157206,
+            "language": "TypeScript",
+            "last_commit": "2025-09-02T15:12:32Z",
+            "owner": "S5SAJID",
+            "repo": "custom-ecom",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "date-range-picker-for-shadcn",
+          "description": "Multi-month views, text entry, preset ranges, responsive design, and date range comparisons. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 668314077,
+            "language": "TypeScript",
+            "last_commit": "2024-04-13T14:32:08Z",
+            "owner": "johnpolacek",
+            "repo": "date-range-picker-for-shadcn",
+            "stars": 1018
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dice-ui",
+          "description": "Accessible shadcn/ui components built with React, TypeScript, and Tailwind CSS. Copy-paste ready, and customizable. Link 2026-07-04",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 892884163,
+            "language": "TypeScript",
+            "last_commit": "2026-06-29T08:28:18Z",
+            "owner": "sadmann7",
+            "repo": "diceui",
+            "stars": 2057
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dnd-dashboard",
+          "description": "Dashboard with drop-to-swap layouts using Next.js, shadcn/ui, and swapy. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 851740478,
+            "language": "TypeScript",
+            "last_commit": "2024-09-03T17:07:01Z",
+            "owner": "olliethedev",
+            "repo": "dnd-dashboard",
+            "stars": 433
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "downshift-shadcn-combobox",
+          "description": "Combobox/autocomplete component built with shadcn/ui and Downshift. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 813550823,
+            "language": "TypeScript",
+            "last_commit": "2025-01-19T11:45:39Z",
+            "owner": "OmerMakesStuff",
+            "repo": "downshift-shadcn-combobox",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "drag-to-resize-sidebar",
+          "description": "Extended shadcn/ui sidebar component with persisted state drag-to-resize functionality. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 882588682,
+            "language": "TypeScript",
+            "last_commit": "2026-06-22T08:24:00Z",
+            "owner": "lumpinif",
+            "repo": "shadcn-resizable-sidebar",
+            "stars": 226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "drop-drawer",
+          "description": "A dropdown menu on desktop and a drawer on mobile devices. Link 2025-05-13T14:19:30.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 977689729,
+            "language": "TypeScript",
+            "last_commit": "2026-06-01T17:56:53Z",
+            "owner": "jiaweing",
+            "repo": "DropDrawer",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "emblor",
+          "description": "Customizable, accessible tag input component with shadcn/ui. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 685783651,
+            "language": "TypeScript",
+            "last_commit": "2026-08-18T15:25:21Z",
+            "owner": "JaleelB",
+            "repo": "emblor",
+            "stars": 1217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "enhanced-button",
+          "description": "Enhanced version of the default shadcn-button component. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 751478104,
+            "language": "TypeScript",
+            "last_commit": "2025-06-28T09:58:50Z",
+            "owner": "jakobhoeg",
+            "repo": "enhanced-button",
+            "stars": 929
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eo-n/ui",
+          "description": "Enhanced UI components built on shadcn’s robust foundation, integrated with Base UI and Tailwind CSS for a modern and customizable design system. Link 2025-04-03T20:12:06.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 929328280,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T00:08:18Z",
+            "owner": "aeonzz",
+            "repo": "eo-n",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fancy-switch",
+          "description": "Fancy switch component built with shadcn/ui. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 827211494,
+            "language": "TypeScript",
+            "last_commit": "2025-11-07T08:48:20Z",
+            "owner": "Aslam97",
+            "repo": "react-fancy-switch",
+            "stars": 215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "file-uploader",
+          "description": "File uploader with shadcn/ui and react-dropzone. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 783101258,
+            "language": "TypeScript",
+            "last_commit": "2025-12-14T00:51:09Z",
+            "owner": "sadmann7",
+            "repo": "file-uploader",
+            "stars": 1422
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "file-vault",
+          "description": "File upload component for React. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 758881512,
+            "language": "TypeScript",
+            "last_commit": "2024-05-09T11:32:28Z",
+            "owner": "ManishBisht777",
+            "repo": "file-vault",
+            "stars": 398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "floating-dragable-card",
+          "description": "Dragable and resizable card using shadcn/ui elements. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 888072266,
+            "language": "TypeScript",
+            "last_commit": "2024-11-13T19:16:55Z",
+            "owner": "nishansanjuka",
+            "repo": "react-drag-card",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "framecn",
+          "description": "Beautiful videos, made simple. Ready to use, customizable video components for React. Link 2026-05-11",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1229010229,
+            "language": "TypeScript",
+            "last_commit": "2026-08-16T09:02:14Z",
+            "owner": "shadcn-labs",
+            "repo": "framecn",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fusion-ui",
+          "description": "Library combining shadcn/ui and MagicUI. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 816669734,
+            "language": "TypeScript",
+            "last_commit": "2025-05-26T22:40:58Z",
+            "owner": "nyxb-ui",
+            "repo": "ui",
+            "stars": 839
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glasscn-ui",
+          "description": "shadcn/ui component library with glassmorphism variants, and many additional components. Link 2025-06-10T17:19:42.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 850421126,
+            "language": "TypeScript",
+            "last_commit": "2024-11-25T05:08:02Z",
+            "owner": "itsjavi",
+            "repo": "glasscn-ui",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "guarahooks",
+          "description": "A free, open-source collection of reusable React hooks you can copy and paste into your apps. Link 2026-07-04",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 966402738,
+            "language": "TypeScript",
+            "last_commit": "2025-12-15T21:14:13Z",
+            "owner": "h3rmel",
+            "repo": "guarahooks",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ibelick/background-snippet",
+          "description": "Ready to use collection of modern background snippets. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 662666825,
+            "language": "TypeScript",
+            "last_commit": "2024-09-26T14:05:46Z",
+            "owner": "ibelick",
+            "repo": "background-snippets",
+            "stars": 2025
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "image-crop-field",
+          "description": "Image crop field with shadcn/ui. This component is a wrapper around the react-easy-crop component. Link 2025-10-08T02:41:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1062059188,
+            "language": "TypeScript",
+            "last_commit": "2026-03-19T14:21:09Z",
+            "owner": "JsCodeDevlopment",
+            "repo": "upload-crop-image",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "image-upload-shadcn",
+          "description": "Image upload component. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 713221647,
+            "language": "TypeScript",
+            "last_commit": "2025-01-14T09:18:24Z",
+            "owner": "kushagrasarathe",
+            "repo": "image-upload-shadcn",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "indie-ui",
+          "description": "UI components with variants. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 806651595,
+            "language": "TypeScript",
+            "last_commit": "2026-01-07T13:57:18Z",
+            "owner": "alibey-10",
+            "repo": "indie-ui",
+            "stars": 711
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jolyui",
+          "description": "JolyUI is a modern React component library built with TypeScript, Tailwind CSS and Motion. It offers a wide range of customizable and accessible UI components to help you build stunning web applications quickly and efficiently. Link 2026-01-23T21:22:27.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1098512962,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T19:27:46Z",
+            "owner": "Johuniq",
+            "repo": "jolyui",
+            "stars": 260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kalyx",
+          "description": "Headless React DatePicker family — single / range / time / date+time / month / year / week pickers behind one composition API. ISO 8601 UTC values, IANA timezone-safe, ~13.6 KB gzip. v1.0 RC. Link 2026-05-12T02:43:00.343Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207075964,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T20:40:45Z",
+            "owner": "jiji-hoon96",
+            "repo": "kalyx",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ktui",
+          "description": "Open-source collection of customizable UI components for Tailwind CSS and vanilla JavaScript Link 2025-06-10T16:47:36.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 975378258,
+            "language": "TypeScript",
+            "last_commit": "2026-06-17T03:09:56Z",
+            "owner": "keenthemes",
+            "repo": "ktui",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lingua-time",
+          "description": "Smart datetime picker with natural language input. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 851592599,
+            "language": "TypeScript",
+            "last_commit": "2025-05-23T21:04:38Z",
+            "owner": "nainglinnkhant",
+            "repo": "lingua-time",
+            "stars": 351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "linked-chart",
+          "description": "Chart component linked with data-table. Link 2025-02-03T19:05:16.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 923242360,
+            "language": "TypeScript",
+            "last_commit": "2025-05-05T19:06:23Z",
+            "owner": "ardasisbot",
+            "repo": "linked-chart",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "marmo-ui",
+          "description": "React components for Applications combined with MCP Server Link 2026-07-14T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1290062238,
+            "language": "TypeScript",
+            "last_commit": "2026-07-25T18:11:40Z",
+            "owner": "mahmoudilyan",
+            "repo": "marmoui",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "maily.to",
+          "description": "Notion-like powerful email editor. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 657626792,
+            "language": "TypeScript",
+            "last_commit": "2026-07-21T08:40:39Z",
+            "owner": "arikchakma",
+            "repo": "maily.to",
+            "stars": 3950
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "manfromexistence-ui",
+          "description": "Components to build beautiful designs. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 903780017,
+            "language": "TypeScript",
+            "last_commit": "2025-05-15T10:04:50Z",
+            "owner": "manfromexistence",
+            "repo": "ui",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mindmapcn",
+          "description": "Beautiful mind maps, works seamlessly with shadcn/ui. Link 2026-01-27T22:08:25.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1143009195,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T09:45:44Z",
+            "owner": "SSShooter",
+            "repo": "mindmapcn",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "minimal-tiptap",
+          "description": "Minimal WYSIWYG editor with shadcn/ui and tiptap. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 818259347,
+            "language": "TypeScript",
+            "last_commit": "2026-03-30T02:38:17Z",
+            "owner": "Aslam97",
+            "repo": "minimal-tiptap",
+            "stars": 1799
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mixcnui",
+          "description": "Collection of animated components for Nextjs. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 817387796,
+            "language": "TypeScript",
+            "last_commit": "2026-02-16T13:46:20Z",
+            "owner": "taqui-786",
+            "repo": "mixcnui",
+            "stars": 317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "motiq",
+          "description": "Accessible, state-driven animated React components and workflow blocks for shadcn/ui, installed as editable source. Link 2026-08-11T14:24:58.708Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1300896449,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T21:57:47Z",
+            "owner": "RMahammad",
+            "repo": "motiq",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mrdoge-ui",
+          "description": "Open-source components for sports apps Link 2026-08-11T14:30:50.184Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1319591749,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T15:43:39Z",
+            "owner": "mrdogeco",
+            "repo": "docs",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "multi-selection",
+          "description": "Managing multi-selection functionality with highlighter. Link 2025-01-21T12:41:54.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 918204361,
+            "language": "TypeScript",
+            "last_commit": "2025-01-17T19:19:35Z",
+            "owner": "sherifawad",
+            "repo": "multi-selection-with-add-remove",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neobrutalism-components",
+          "description": "Neobrutalism-styled Tailwind React and shadcn/ui components. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 670732143,
+            "language": "TypeScript",
+            "last_commit": "2026-08-02T23:27:53Z",
+            "owner": "ekmas",
+            "repo": "neobrutalism-components",
+            "stars": 5322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-dnd",
+          "description": "Sortable Drag and Drop with Next.js and dnd-kit. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 686314011,
+            "language": "TypeScript",
+            "last_commit": "2024-08-26T13:03:06Z",
+            "owner": "sujjeee",
+            "repo": "nextjs-dnd",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-multi-image-upload",
+          "description": "Compact, responsive file uploader with shadcn/ui, React Hook Form, and cloud support (S3/R2). Link 2025-02-23T14:07:48.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 937234097,
+            "language": "TypeScript",
+            "last_commit": "2025-02-25T19:09:44Z",
+            "owner": "jacksonkasi0",
+            "repo": "nextjs-multi-image-upload",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-stepper",
+          "description": "Dynamic multi-step form with Next.js and zustand. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 892372761,
+            "language": "TypeScript",
+            "last_commit": "2024-12-06T18:15:41Z",
+            "owner": "ebulku",
+            "repo": "next-stepper",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "novel",
+          "description": "Notion-style WYSIWYG editor with AI-powered autocompletion. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 617179274,
+            "language": "TypeScript",
+            "last_commit": "2025-01-18T14:26:33Z",
+            "owner": "steven-tey",
+            "repo": "novel",
+            "stars": 16428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ogimagecn",
+          "description": "Beautiful OG images, made simple. Ready to use, customizable Open Graph image components for React. Link 2026-06-15",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1259712780,
+            "language": "TypeScript",
+            "last_commit": "2026-08-18T19:24:23Z",
+            "owner": "shadcn-labs",
+            "repo": "ogimagecn",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "payment-gateways",
+          "description": "Integration of payment gateways with Next.js 14. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 835281262,
+            "language": "TypeScript",
+            "last_commit": "2024-12-12T15:07:20Z",
+            "owner": "PremPrakashCodes",
+            "repo": "payment-gateways",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pdfx",
+          "description": "shadcn/ui-style PDF component library for React. Copy-paste components built on @react-pdf/renderer run pdfx add invoice and own the code. Link 2026-02-28T15:25:37.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1157823064,
+            "language": "TypeScript",
+            "last_commit": "2026-08-17T00:36:46Z",
+            "owner": "akii09",
+            "repo": "pdfx",
+            "stars": 1170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pittaya-ui",
+          "description": "A fully open-source UI library for React, powered by TypeScript and Tailwind CSS. Fast, composable, and ready for production. Link 2026-01-27T22:07:20.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1036193957,
+            "language": "TypeScript",
+            "last_commit": "2026-03-03T18:41:28Z",
+            "owner": "pittaya-ui",
+            "repo": "ui-kit",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "planner",
+          "description": "Adaptable scheduling component for React. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 791219771,
+            "language": "TypeScript",
+            "last_commit": "2024-11-03T20:02:19Z",
+            "owner": "UretzkyZvi",
+            "repo": "planner",
+            "stars": 443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plate",
+          "description": "AI-powered rich-text editor. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 225260962,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:49:37Z",
+            "owner": "udecode",
+            "repo": "plate",
+            "stars": 16528
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pricing-page-shadcn",
+          "description": "Customizable pricing page with Next.js 14. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 717212070,
+            "language": "TypeScript",
+            "last_commit": "2024-04-05T15:13:57Z",
+            "owner": "m4nute",
+            "repo": "pricing-page-shadcn",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "progress-button",
+          "description": "Extended button component with progress UX. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 813381274,
+            "language": "TypeScript",
+            "last_commit": "2024-06-11T01:48:48Z",
+            "owner": "tomredman",
+            "repo": "ProgressButton",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-dnd-kit-tailwind-shadcn-ui",
+          "description": "Accessible kanban board with dnd-kit. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 680220369,
+            "language": "TypeScript",
+            "last_commit": "2024-05-18T09:33:55Z",
+            "owner": "Georgegriff",
+            "repo": "react-dnd-kit-tailwind-shadcn-ui",
+            "stars": 818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-pdf-flipbook-viewer",
+          "description": "PDF flipbook viewer with zoom and fullscreen. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 848586824,
+            "language": "JavaScript",
+            "last_commit": "2025-11-15T19:55:39Z",
+            "owner": "mohitkumawat310",
+            "repo": "react-pdf-flipbook-viewer",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "recursive-dnd-kanban-board",
+          "description": "Recursive drag and drop kanban board. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 866954040,
+            "language": "TypeScript",
+            "last_commit": "2026-02-03T20:00:59Z",
+            "owner": "mehrdadrafiee",
+            "repo": "recursive-dnd-kanban-board",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rivelle-ui",
+          "description": "Rivelle is an open-source UI library for React and Next.js with editable components, interactive effects, reusable blocks, and complete templates. Install only what you need and fully own the source. Link 2026-08-11T14:27:05.834Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1301809874,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T16:33:08Z",
+            "owner": "w3cproject",
+            "repo": "rivelle-ui",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "roadmap-ui",
+          "description": "Components for interactive roadmaps. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 847167817,
+            "language": "TypeScript",
+            "last_commit": "2026-05-04T06:00:08Z",
+            "owner": "shadcnblocks",
+            "repo": "kibo",
+            "stars": 3914
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scificn-ui",
+          "description": "A retro sci-fi UI design system inspired by classic starship consoles and alien computer terminals, featuring modular HUD components, neon data grids, tactical panels, and cinematic interface elements that blend 70s–80s futurism with modern usability. Link 2026-03-31T13:02:21.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1161872700,
+            "language": "TypeScript",
+            "last_commit": "2026-04-07T09:52:16Z",
+            "owner": "baxy5",
+            "repo": "scificn-ui",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "search-address",
+          "description": "Interactive address search using OpenStreetMap. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 797458754,
+            "language": "TypeScript",
+            "last_commit": "2024-05-20T11:26:16Z",
+            "owner": "UretzkyZvi",
+            "repo": "search-address",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadboard",
+          "description": "An admin dashboard template built with Next.js 15, React 19, Tailwind CSS v4, and Shadcn/UI components, featuring starter and full kits for scalable, user-friendly web apps. Link 2025-04-19T15:50:59.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 851148119,
+            "language": "TypeScript",
+            "last_commit": "2025-12-13T18:16:47Z",
+            "owner": "Qualiora",
+            "repo": "shadboard",
+            "stars": 708
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-address-autocomplete",
+          "description": "Address autocomplete with Google Places API. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 826030612,
+            "language": "TypeScript",
+            "last_commit": "2024-07-09T02:18:10Z",
+            "owner": "NiazMorshed2007",
+            "repo": "shadcn-address-autocomplete",
+            "stars": 378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-admin",
+          "description": "Admin Dashboard UI with shadcn/ui and Vite. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 748464657,
+            "language": "TypeScript",
+            "last_commit": "2026-07-21T16:18:31Z",
+            "owner": "satnaing",
+            "repo": "shadcn-admin",
+            "stars": 14003
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-admin-kit",
+          "description": "Powerful open-source shadcn components to build beautiful internal tools, admin panels, and dashboards with React Link 2025-07-07T12:23:13.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 976731507,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T14:58:06Z",
+            "owner": "marmelab",
+            "repo": "shadcn-admin-kit",
+            "stars": 1073
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-calendar-component",
+          "description": "Calendar date picker component. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 815915987,
+            "language": "TypeScript",
+            "last_commit": "2025-12-13T19:28:06Z",
+            "owner": "sersavan",
+            "repo": "shadcn-calendar-component",
+            "stars": 338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-chat",
+          "description": "Customizable chat component. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 746181527,
+            "language": "TypeScript",
+            "last_commit": "2025-08-12T16:55:53Z",
+            "owner": "jakobhoeg",
+            "repo": "shadcn-chat",
+            "stars": 1624
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-carousel-testimonials",
+          "description": "Carousel Testimonials component. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 736729352,
+            "language": "TypeScript",
+            "last_commit": "2024-01-01T16:07:32Z",
+            "owner": "johanguse",
+            "repo": "shadcn-carousel-testimonials",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-cookie-consent",
+          "description": "Customizable cookie consent component. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 756004970,
+            "language": "TypeScript",
+            "last_commit": "2026-01-07T14:59:01Z",
+            "owner": "r2hu1",
+            "repo": "shadcn-cookie-consent",
+            "stars": 291
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-data-table-advanced-col-opions",
+          "description": "DataTable with column resizing. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 773920468,
+            "language": "TypeScript",
+            "last_commit": "2024-06-01T13:15:14Z",
+            "owner": "danielagg",
+            "repo": "shadcn-data-table-resize-columns",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-drag-and-drop-sort",
+          "description": "Drag-and-drop sortable list of pills of different widths using dnd-kit. Link 2025-02-03T19:04:48.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 926310168,
+            "language": "TypeScript",
+            "last_commit": "2025-12-21T04:30:24Z",
+            "owner": "crystaltai",
+            "repo": "shadcn-drag-and-drop",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-drag-table",
+          "description": "Drag-and-drop table component. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 674081490,
+            "language": "TypeScript",
+            "last_commit": "2023-08-03T08:12:17Z",
+            "owner": "zenoncao",
+            "repo": "shadcn-drag-table",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-dropzone",
+          "description": "File upload component using React-Dropzone, built with accessibility in mind. Link 2025-01-13T16:57:02.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 873139502,
+            "language": "TypeScript",
+            "last_commit": "2025-02-23T08:49:42Z",
+            "owner": "janglad",
+            "repo": "shadcn-dropzone",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-editor",
+          "description": "Lexical editor with shadcn theme. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 882993211,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T12:43:19Z",
+            "owner": "htmujahid",
+            "repo": "shadcn-editor",
+            "stars": 1365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-extends",
+          "description": "Collection of shadcn/ui components. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 746078977,
+            "language": "TypeScript",
+            "last_commit": "2024-09-20T16:17:13Z",
+            "owner": "lucioew28",
+            "repo": "extends",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-extension",
+          "description": "Open-source component collection. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 749538412,
+            "language": "TypeScript",
+            "last_commit": "2025-08-04T21:26:49Z",
+            "owner": "BelkacemYerfa",
+            "repo": "shadcn-extension",
+            "stars": 1329
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-fintech",
+          "description": "Premium fintech dashboard with 10 pages — drag-and-drop layout, 3D credit cards, live investment ticker, spending heatmap, actionable notifications, and dark mode. Built with Next.js 16, shadcn/ui, and Tailwind CSS v4. Link 2026-04-24T19:39:37.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1209276153,
+            "language": "TypeScript",
+            "last_commit": "2026-05-18T20:03:40Z",
+            "owner": "abderrahimghazali",
+            "repo": "shadcn-fintech",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-full-calendar",
+          "description": "A feature-rich calendar application built with React, TypeScript, and ShadCN UI components. This project provides a customizable and interactive calendar experience with multiple views, event management, and a modern UI. Link 2025-07-07T12:25:07.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 958923713,
+            "language": "TypeScript",
+            "last_commit": "2026-04-14T21:10:43Z",
+            "owner": "yassir-jeraidi",
+            "repo": "full-calendar",
+            "stars": 470
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-image-cropper",
+          "description": "Image cropper with react-image-crop. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 819801052,
+            "language": "TypeScript",
+            "last_commit": "2024-09-29T08:39:11Z",
+            "owner": "sujjeee",
+            "repo": "shadcn-image-cropper",
+            "stars": 455
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-linear-combobox",
+          "description": "Linear-style task priority combobox. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 790548968,
+            "language": "TypeScript",
+            "last_commit": "2024-04-23T17:31:05Z",
+            "owner": "damianricobelli",
+            "repo": "shadcn-linear-combobox",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-location-picker",
+          "description": "Simple google maps location picker. Link 2025-03-04T21:25:41.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 938851438,
+            "language": "TypeScript",
+            "last_commit": "2025-02-25T15:51:10Z",
+            "owner": "brielov",
+            "repo": "shadcn-location-picker",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-multi-select-component",
+          "description": "Multi-select component. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 784949119,
+            "language": "TypeScript",
+            "last_commit": "2025-12-13T19:27:14Z",
+            "owner": "sersavan",
+            "repo": "shadcn-multi-select-component",
+            "stars": 2208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-number-scrubber",
+          "description": "Draggable numeric input component. Link 2025-01-07T20:11:18.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 910587323,
+            "language": "TypeScript",
+            "last_commit": "2025-01-02T22:45:23Z",
+            "owner": "camwebby",
+            "repo": "shadcn-react-number-scrubber",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-packaged",
+          "description": "This is an npm package that exports all shadcn/ui components without the need for a CLI, designed for ease of use. Link 2025-02-27T01:53:01.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 917507832,
+            "language": "CSS",
+            "last_commit": "2026-08-24T00:55:58Z",
+            "owner": "anuoua",
+            "repo": "shadcn-packaged",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-phone-input-2",
+          "description": "Phone input with libphonenumber-js. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 788753678,
+            "language": "TypeScript",
+            "last_commit": "2024-04-23T04:19:14Z",
+            "owner": "damianricobelli",
+            "repo": "shadcn-phone-input",
+            "stars": 279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-phone-input",
+          "description": "Phone input with country validation. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 751785463,
+            "language": "TypeScript",
+            "last_commit": "2025-08-20T12:14:39Z",
+            "owner": "omeralpi",
+            "repo": "shadcn-phone-input",
+            "stars": 966
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-pricing-page",
+          "description": "Responsive pricing component with toggles. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 899992041,
+            "language": "TypeScript",
+            "last_commit": "2025-09-08T23:14:59Z",
+            "owner": "aymanch-03",
+            "repo": "shadcn-pricing-page",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-space",
+          "description": "Open-source shadcn/ui blocks, components, and templates built with React, Tailwind, and Base UI. Link 2026-02-27T22:12:12.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1136875744,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T10:10:55Z",
+            "owner": "shadcnspace",
+            "repo": "shadcnspace",
+            "stars": 737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-spinner",
+          "description": "Spinner component. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 878258690,
+            "language": "TypeScript",
+            "last_commit": "2024-11-28T21:42:50Z",
+            "owner": "allipiopereira",
+            "repo": "shadcn-spinner",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-stacked-progress-bar",
+          "description": "A composable stacked progress bar for shadcn/ui to display multiple statuses in one track, with optional legend, tooltips, and accessible semantics. Link 2026-06-19",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1274162275,
+            "language": "TypeScript",
+            "last_commit": "2026-06-19T13:46:23Z",
+            "owner": "JoachimBrasier",
+            "repo": "shadcn-stacked-progress-bar",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-stepper",
+          "description": "Complete stepper component. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 784029241,
+            "language": "TypeScript",
+            "last_commit": "2026-06-05T20:33:51Z",
+            "owner": "damianricobelli",
+            "repo": "stepperize",
+            "stars": 1595
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-table-v2",
+          "description": "Table with server-side features. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 664669687,
+            "language": "TypeScript",
+            "last_commit": "2026-06-14T12:36:24Z",
+            "owner": "sadmann7",
+            "repo": "tablecn",
+            "stars": 6259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-timeline",
+          "description": "Customizable timeline component. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 780582361,
+            "language": "JavaScript",
+            "last_commit": "2026-05-07T13:49:19Z",
+            "owner": "timDeHof",
+            "repo": "shadcn-timeline",
+            "stars": 315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-tiptap",
+          "description": "Custom Tiptap editor extensions. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 874328432,
+            "language": "TypeScript",
+            "last_commit": "2024-10-27T18:02:06Z",
+            "owner": "NiazMorshed2007",
+            "repo": "shadcn-tiptap",
+            "stars": 708
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-tree-view",
+          "description": "Hierarchical data component. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 855472358,
+            "language": "TypeScript",
+            "last_commit": "2025-11-20T23:15:26Z",
+            "owner": "MrLightful",
+            "repo": "shadcn-tree-view",
+            "stars": 394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-ui-expansions",
+          "description": "Additional useful components. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 726379305,
+            "language": "TypeScript",
+            "last_commit": "2026-06-18T07:34:37Z",
+            "owner": "hsuanyi-chou",
+            "repo": "shadcn-ui-expansions",
+            "stars": 1937
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-ui-sidebar",
+          "description": "Retractable responsive sidebar. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 795123402,
+            "language": "TypeScript",
+            "last_commit": "2025-04-04T06:57:08Z",
+            "owner": "salimi-my",
+            "repo": "shadcn-ui-sidebar",
+            "stars": 1802
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcndashboard",
+          "description": "Build admin panel faster with the open source complete shadcn dashboard kit Link 2026-08-11T14:27:05.834Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1244283723,
+            "language": "TypeScript",
+            "last_commit": "2026-08-20T13:01:22Z",
+            "owner": "shadcndashboard",
+            "repo": "shadcndashboard",
+            "stars": 420
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcnship",
+          "description": "Production-ready shadcn/ui component registry for building modern SaaS applications with Next.js, TypeScript, and Tailwind CSS. Link 2026-01-31T22:05:02.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1132971956,
+            "language": "TypeScript",
+            "last_commit": "2026-07-26T13:13:36Z",
+            "owner": "arnaudvolp",
+            "repo": "shadcnship",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simplekit",
+          "description": "Wallet and account component for Wagmi. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 828634005,
+            "language": "TypeScript",
+            "last_commit": "2024-07-17T15:16:18Z",
+            "owner": "vaunblu",
+            "repo": "SimpleKit",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sortable",
+          "description": "Sortable component with dnd-kit. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 799074690,
+            "language": "TypeScript",
+            "last_commit": "2025-12-14T01:23:44Z",
+            "owner": "sadmann7",
+            "repo": "sortable",
+            "stars": 674
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spectrum-ui",
+          "description": "Collection using Aceternity UI Magic UI. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 875103769,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T11:04:21Z",
+            "owner": "arihantcodes",
+            "repo": "spectrum-ui",
+            "stars": 1024
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stateful-button",
+          "description": "A shadcn/ui button component that provides clear visual feedback with full accessibility support for loading/progress, success, and error states during asynchronous operations. Link 2025-09-06T21:28:00.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1046555132,
+            "language": "TypeScript",
+            "last_commit": "2026-01-04T13:43:08Z",
+            "owner": "nanyx95",
+            "repo": "Stateful-Button-React",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stocks",
+          "description": "Stock Picker with Next.js charts. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 824857301,
+            "language": "TypeScript",
+            "last_commit": "2024-07-07T00:21:15Z",
+            "owner": "aryanvichare",
+            "repo": "stocks",
+            "stars": 341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styleseed",
+          "description": "Design engine with 48 shadcn-style components and swappable brand skins. Link 2026-04-24T19:40:34.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1203405919,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T04:46:58Z",
+            "owner": "bitjaru",
+            "repo": "styleseed",
+            "stars": 916
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "supabase-shadcn-database-example",
+          "description": "supabase + shadcn/ui datatable Link 2024-12-30T14:21:59.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 908641963,
+            "language": "TypeScript",
+            "last_commit": "2025-01-17T14:29:18Z",
+            "owner": "thisisfel1x",
+            "repo": "supabase-shadcn-database-example",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "supercharged-shadcn-components",
+          "description": "Type-safe form components collection. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 892559283,
+            "language": "TypeScript",
+            "last_commit": "2025-03-25T01:36:56Z",
+            "owner": "slickwit",
+            "repo": "supercharged-shadcn-components",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trable-craft",
+          "description": "Drizzle ORM-powered table engine that auto-generates tables from your schema. Built on TanStack Table with server-side filtering, sorting, pagination, search, export, and URL state sync. Link 2026-02-27T22:15:10.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1152901809,
+            "language": "TypeScript",
+            "last_commit": "2026-07-13T05:07:09Z",
+            "owner": "jacksonkasi1",
+            "repo": "TableCraft",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tanstack-ui-table",
+          "description": "Customizable table with @tanstack/table and shadcn/ui Link 2025-02-27T01:56:00.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 936757846,
+            "language": "TypeScript",
+            "last_commit": "2025-02-23T01:37:40Z",
+            "owner": "drefahl",
+            "repo": "tanstack-ui-table",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "time-picker",
+          "description": "Simple TimePicker component. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 711624442,
+            "language": "TypeScript",
+            "last_commit": "2024-12-19T18:02:47Z",
+            "owner": "openstatusHQ",
+            "repo": "time-picker",
+            "stars": 864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tnks-data-table",
+          "description": "Advanced data table component built with shadcn/ui and TanStack Table featuring server-side operations, row selection, filtering, column customization, and export functionality. Fully TypeScript compatible with comprehensive documentation. Link 2025-04-19T18:09:21.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 962410667,
+            "language": "TypeScript",
+            "last_commit": "2026-03-25T17:25:50Z",
+            "owner": "jacksonkasi1",
+            "repo": "tnks-data-table",
+            "stars": 243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tremor",
+          "description": "Components for charts and dashboards. Link 2025-02-03T19:04:21.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 777529312,
+            "language": "TypeScript",
+            "last_commit": "2025-10-10T13:08:24Z",
+            "owner": "tremorlabs",
+            "repo": "tremor",
+            "stars": 3577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "twblocks",
+          "description": "Website blocks based on shadcn & Radix. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 782894743,
+            "language": "TypeScript",
+            "last_commit": "2025-12-15T12:30:01Z",
+            "owner": "tommyjepsen",
+            "repo": "twblocks",
+            "stars": 780
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uiable",
+          "description": "UIAble is a free, open-source UI system that extends shadcn/ui with a vivid design system, reusable React components, and complete code ownership. Link 2026-07-16T01:46:46.956Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1201053252,
+            "language": "TypeScript",
+            "last_commit": "2026-08-22T09:30:38Z",
+            "owner": "codedthemes",
+            "repo": "uiable",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uixmat-onborda",
+          "description": "Product tour for Next.js applications. Link 2025-07-16T12:35:38.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 767591075,
+            "language": "TypeScript",
+            "last_commit": "2026-06-08T08:49:10Z",
+            "owner": "uixmat",
+            "repo": "onborda",
+            "stars": 1398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "user-tour-kit",
+          "description": "MIT-licensed headless onboarding suite — tours, hints, checklists, microsurveys, and announcements. Built on Radix UI, shadcn/ui-friendly defaults. Link 2026-05-29T18:50:43.235Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1215829131,
+            "language": "MDX",
+            "last_commit": "2026-06-20T02:49:14Z",
+            "owner": "domidex01",
+            "repo": "tour-kit",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "w3-kit",
+          "description": "A comprehensive library of accessible React components for building high-quality Web3 applications and dApps Link 2026-04-24T19:41:27.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 918357714,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T01:15:22Z",
+            "owner": "w3-kit",
+            "repo": "ui",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zoom-charts",
+          "description": "Zoomable Charts with shadcn/ui. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 828043012,
+            "language": "TypeScript",
+            "last_commit": "2024-07-14T18:55:04Z",
+            "owner": "shelwinsunga",
+            "repo": "zoom-chart-demo",
+            "stars": 631
+          }
+        }
+      ],
+      "title": "Libs and Components"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "atelier-ui",
+          "description": "A React Three Fiber and Motion component system for React and Next.js. WebGL galleries, interactive cursors, smooth scroll effects and page transitions, built on one shared canvas and one scroll loop. Link 2026-08-11T14:27:05.834Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1232218609,
+            "language": "TypeScript",
+            "last_commit": "2026-08-20T21:44:10Z",
+            "owner": "whatisjery",
+            "repo": "atelier-ui",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neobrutalism-vue",
+          "description": "A vue-based registry of neobrutalism-styled Tailwind components. Link 2025-12-04T15:20:34.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1067435518,
+            "language": "Vue",
+            "last_commit": "2025-12-08T21:44:02Z",
+            "owner": "michaelsieminski",
+            "repo": "neobrutalism-vue",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "registry.directory",
+          "description": "A curated directory to discover, preview, and copy shadcn/ui registries. Link 2025-09-23T23:29:49.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 965820922,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T01:48:39Z",
+            "owner": "rbadillap",
+            "repo": "registry.directory",
+            "stars": 76
+          }
+        }
+      ],
+      "title": "Registries"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gradient-picker",
+          "description": "Fancy Gradient Picker built with shadcn/ui, Radix UI, and Tailwind CSS. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 674843787,
+            "language": "TypeScript",
+            "last_commit": "2025-12-13T13:49:35Z",
+            "owner": "Illyism",
+            "repo": "gradient-picker",
+            "stars": 348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "navnote/rangeen",
+          "description": "Tool that helps you to create a colour palette for your website. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 766693797,
+            "language": "TypeScript",
+            "last_commit": "2024-03-26T21:29:40Z",
+            "owner": "navnote",
+            "repo": "rangeen",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-ui-customizer",
+          "description": "POC - shadcn/ui themes with color pickers. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 676317015,
+            "language": "TypeScript",
+            "last_commit": "2025-02-15T05:22:40Z",
+            "owner": "Railly",
+            "repo": "shadcn-ui-customizer",
+            "stars": 396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn theme editor",
+          "description": "Shadcn Theme Editor is a user-friendly component designed to simplify the process of managing and customizing theme colors in Shadcn-based projects. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 840826184,
+            "language": "TypeScript",
+            "last_commit": "2025-09-29T13:06:54Z",
+            "owner": "programming-with-ia",
+            "repo": "shadcn-theme-editor",
+            "stars": 199
+          }
+        }
+      ],
+      "title": "Colors and Customizations"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bento-hub",
+          "description": "BentoHub is an application where you can create a bento grid for your GitHub profile readme. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 818672076,
+            "language": "JavaScript",
+            "last_commit": "2025-05-04T14:27:21Z",
+            "owner": "amittam104",
+            "repo": "BentoHub",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cut-it",
+          "description": "Link shortener built using Next.js App Router, Server Actions, Drizzle ORM, Turso, and styled with shadcn/ui. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 635723236,
+            "language": "TypeScript",
+            "last_commit": "2026-01-19T20:07:04Z",
+            "owner": "mehrabmp",
+            "repo": "cut-it",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "form-builder",
+          "description": "UI-based codegen tool to easily create beautiful and type-safe @shadcn/ui forms. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 679304202,
+            "language": "TypeScript",
+            "last_commit": "2025-04-30T21:34:31Z",
+            "owner": "KryptXBSA",
+            "repo": "FormBuilder",
+            "stars": 475
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hook-again",
+          "description": "A collection of shadcn/ui installable React Hooks. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 880010840,
+            "language": "TypeScript",
+            "last_commit": "2025-05-06T10:31:18Z",
+            "owner": "ilyichv",
+            "repo": "hookagain",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "invoify",
+          "description": "An invoice generator app built using Next.js, TypeScript, and shadcn/ui. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 692813598,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T02:55:34Z",
+            "owner": "al1abb",
+            "repo": "invoify",
+            "stars": 6344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jobsync",
+          "description": "JobSync is a job seekers' assistant to manage job search efficiently. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 804067963,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T11:09:50Z",
+            "owner": "Gsync",
+            "repo": "jobsync",
+            "stars": 944
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "memfree",
+          "description": "Open-source hybrid AI search engine, instantly get accurate answers from the internet, bookmarks, notes, and docs. Built using Next.js and shadcn/ui. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 815403287,
+            "language": "TypeScript",
+            "last_commit": "2026-07-06T12:02:53Z",
+            "owner": "memfreeme",
+            "repo": "memfree",
+            "stars": 1507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "memi",
+          "description": "Agent design CI for shadcn/ui and Tailwind: focused Agent Skills, UI audits, token extraction, component scaffolds, accessibility checks, and file-anchored quality gates. Link 2026-07-15",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1189684552,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T17:25:22Z",
+            "owner": "memi-design",
+            "repo": "memi",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mix-cn",
+          "description": "Fully functional dj console app built using shadcn Link 2026-06-13",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1268572185,
+            "language": "TypeScript",
+            "last_commit": "2026-07-26T21:20:46Z",
+            "owner": "melromyeah",
+            "repo": "MixCN",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opensearch-ai",
+          "description": "SearchGPT/Perplexity clone but personalized for you. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 836014064,
+            "language": "TypeScript",
+            "last_commit": "2025-07-08T07:24:20Z",
+            "owner": "supermemoryai",
+            "repo": "opensearch-ai",
+            "stars": 1329
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pastecode",
+          "description": "Pastebin alternative built with TypeScript, Next.js, Drizzle, shadcn/ui, and RSC. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 520511197,
+            "language": "TypeScript",
+            "last_commit": "2026-04-26T10:45:53Z",
+            "owner": "Quorin",
+            "repo": "PasteCode.app",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "proxmox-helper-scripts",
+          "description": "A catalog of scripts for your Proxmox VE homelab, built with the Next.js App Router and styled with shadcn/ui. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 793283614,
+            "language": "TypeScript",
+            "last_commit": "2024-11-05T08:23:33Z",
+            "owner": "bramsuurdje",
+            "repo": "proxmox-helper-scripts",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quack-db",
+          "description": "Open-source in-browser DuckDB SQL editor. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 743147587,
+            "language": "TypeScript",
+            "last_commit": "2026-07-01T08:42:49Z",
+            "owner": "mattf96s",
+            "repo": "QuackDB",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-play",
+          "description": "A playground for building and previewing shadcn/ui components with a live editor. Link 2026-02-13T12:46:03.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1155539163,
+            "language": "TypeScript",
+            "last_commit": "2026-07-10T12:46:39Z",
+            "owner": "ephraimduncan",
+            "repo": "shadcn-playground",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-zod-form",
+          "description": "CLI tool to generate shadcn/ui forms from Zod schemas. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 854847589,
+            "language": "TypeScript",
+            "last_commit": "2025-10-28T18:19:40Z",
+            "owner": "arkemis-labs",
+            "repo": "shadcn-zod-form",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sharable-form-builder",
+          "description": "A sharable form builder for creating forms and sharing your form link, based on shadcn/ui and Next.js. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 870328076,
+            "language": "TypeScript",
+            "last_commit": "2024-10-11T23:23:34Z",
+            "owner": "ayoubben18",
+            "repo": "sharable-form-builder",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "someday",
+          "description": "Free to host and open-source Cal.com/Calendly alternative built on Google Apps Script for Gmail users. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 881753767,
+            "language": "TypeScript",
+            "last_commit": "2026-07-20T14:07:40Z",
+            "owner": "rbbydotdev",
+            "repo": "someday",
+            "stars": 1061
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sweep",
+          "description": "Sweep is a modern, open-source gradient generator built for designers and developers. Create beautiful linear and radial gradients with real-time preview, noise/blur effects, and export to CSS, Tailwind, SVG, or JPG. Free forever. No sign-up required. Link 2025-11-11T22:24:32.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1090797955,
+            "language": "TypeScript",
+            "last_commit": "2026-01-02T10:37:58Z",
+            "owner": "Johuniq",
+            "repo": "sweep",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "translate-app",
+          "description": "Translate App using TypeScript, Tailwind CSS, NextJS, Bun, shadcn/ui, AI SDK/OpenAI, and Zod. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 811060577,
+            "language": "TypeScript",
+            "last_commit": "2024-12-09T00:43:36Z",
+            "owner": "dryor",
+            "repo": "translate-app",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typelabs",
+          "description": "MonkeyType-inspired typing test app built with React, shadcn, and Zustand at its core. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 807790738,
+            "language": "TypeScript",
+            "last_commit": "2025-01-22T11:19:13Z",
+            "owner": "frstycodes",
+            "repo": "typelabs",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ui-builder",
+          "description": "A React component editor that provides a no-code, visual way to create UIs, fully compatible with shadcn/ui and custom components. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 858930584,
+            "language": "TypeScript",
+            "last_commit": "2026-07-03T17:58:53Z",
+            "owner": "olliethedev",
+            "repo": "ui-builder",
+            "stars": 657
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wallhaven-desktop",
+          "description": "Wallhaven Wallpaper software desktop. Create a Wallhaven API-based client, a true wallpaper software. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 846377445,
+            "language": "TypeScript",
+            "last_commit": "2024-12-20T08:40:10Z",
+            "owner": "ErKeLost",
+            "repo": "wallhaven-desktop",
+            "stars": 50
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "anonypost",
+          "description": "Share your thoughts and experiences anonymously by posting on the platform. Crafted using t3-stack. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 828218534,
+            "language": "TypeScript",
+            "last_commit": "2026-06-11T12:04:59Z",
+            "owner": "avalynndev",
+            "repo": "anonypost",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "infinitunes",
+          "description": "A simple music player web app built using Next.js, shadcn/ui, Tailwind CSS, Drizzle ORM, and more. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 569390915,
+            "language": "TypeScript",
+            "last_commit": "2026-08-22T23:58:33Z",
+            "owner": "rajput-hemant",
+            "repo": "infinitunes",
+            "stars": 360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kd",
+          "description": "Ad-free Kdrama streaming app. Built with Next.js, Drizzle ORM, NeonDB, and shadcn/ui. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 727625788,
+            "language": "TypeScript",
+            "last_commit": "2025-05-06T21:59:13Z",
+            "owner": "noelrohi",
+            "repo": "kd",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "memergez",
+          "description": "Quickly generate memes by entering text or an avatar URL, with support for many meme commands. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 840639105,
+            "language": "TypeScript",
+            "last_commit": "2025-10-27T01:17:36Z",
+            "owner": "avalynndev",
+            "repo": "memergez",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "multiboard",
+          "description": "Minimal Kanban platform. Built with Better-Auth, Next.js, ZenStack, Prisma, and shadcn/ui. Link 2025-07-15T17:11:44.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1016294662,
+            "language": "TypeScript",
+            "last_commit": "2026-04-06T11:43:46Z",
+            "owner": "olliethedev",
+            "repo": "multiboard",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openhive",
+          "description": "Open-source, self-hosted Slack alternative with channels, DMs, threads, reactions, file uploads, and video/audio calls. Built with Next.js, Supabase, Zustand, and shadcn/ui. Link 2026-03-14T18:15:08.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1181571740,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T12:15:13Z",
+            "owner": "arseneHuot",
+            "repo": "openhive",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "s5arc-ecommerce-platform",
+          "description": "S5ARC is an open-source, multi-tenant e-commerce SaaS platform designed to help non-technical founders launch online stores quickly built with shadcn & nextjs etc. Link 2026-04-24T19:39:08.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1072768013,
+            "language": "TypeScript",
+            "last_commit": "2026-02-13T06:22:23Z",
+            "owner": "S5SAJID",
+            "repo": "next-dashcommerce",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "veritas-kanban",
+          "description": "Self-hosted Kanban board with AI agent integration, time tracking, and 1,255 tests. Built with React 19, Vite 6, TanStack Query, dnd-kit, and shadcn/ui. Link 2026-01-31T22:04:09.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1142309893,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:46:54Z",
+            "owner": "BradGroux",
+            "repo": "veritas-kanban",
+            "stars": 813
+          }
+        }
+      ],
+      "title": "Platforms"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Angular (spartan)",
+          "description": "Angular port of shadcn/ui. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 624431943,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T10:46:18Z",
+            "owner": "spartan-ng",
+            "repo": "spartan",
+            "stars": 2858
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flutter (shadcn_ui)",
+          "description": "Flutter port of shadcn/ui. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 739432236,
+            "language": "Dart",
+            "last_commit": "2026-08-24T01:07:12Z",
+            "owner": "nank1ro",
+            "repo": "flutter-shadcn-ui",
+            "stars": 2785
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go (shadcn-templ)",
+          "description": "Go and templ port of shadcn/ui. Link 2026-08-11T14:24:58.708Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 866037479,
+            "language": "templ",
+            "last_commit": "2026-08-23T12:00:47Z",
+            "owner": "axadrn",
+            "repo": "shadcn-templ",
+            "stars": 1717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kotlin (shadcn-kotlin)",
+          "description": "Kotlin port of shadcn/ui. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 657395822,
+            "language": "Kotlin",
+            "last_commit": "2023-08-09T16:03:42Z",
+            "owner": "dead8309",
+            "repo": "shadcn-kotlin",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MkDocs (mkdocs-shadcn)",
+          "description": "MkDocs port of shadcn/ui. Link 2025-07-07T12:20:11.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 926106908,
+            "language": "CSS",
+            "last_commit": "2026-08-17T18:46:59Z",
+            "owner": "asiffer",
+            "repo": "mkdocs-shadcn",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ".NET (ShadUI)",
+          "description": "Avalonia port of shadcn/ui. Based on SukiUI Link 2025-10-13T13:42:09.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 913602900,
+            "language": "C#",
+            "last_commit": "2026-07-19T08:03:51Z",
+            "owner": "accntech",
+            "repo": "shad-ui",
+            "stars": 540
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phoenix LiveView (salad_ui)",
+          "description": "Phoenix LiveView port of shadcn/ui. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 805652419,
+            "language": "Elixir",
+            "last_commit": "2026-08-11T15:53:40Z",
+            "owner": "bluzky",
+            "repo": "salad_ui",
+            "stars": 1050
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Aria (jolly-ui)",
+          "description": "shadcn/ui compatible react aria components. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 703788403,
+            "language": "TypeScript",
+            "last_commit": "2025-01-31T00:29:26Z",
+            "owner": "jolbol1",
+            "repo": "jolly-ui",
+            "stars": 1119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Native (nativecn-ui)",
+          "description": "React Native port of shadcn/ui. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 696102834,
+            "language": "TypeScript",
+            "last_commit": "2024-09-08T01:33:01Z",
+            "owner": "Mobilecn-UI",
+            "repo": "nativecn-ui",
+            "stars": 1163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Native (react-native-reusables)",
+          "description": "React Native port of shadcn/ui (recommended). Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 732431229,
+            "language": "TypeScript",
+            "last_commit": "2026-07-02T14:22:00Z",
+            "owner": "founded-labs",
+            "repo": "react-native-reusables",
+            "stars": 8617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Native (tetra-ui)",
+          "description": "Delightful components for a clean, accessible and modern component library for React Native. Link 2026-06-22",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1018432048,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T04:47:47Z",
+            "owner": "Liamandrew",
+            "repo": "tetra-ui",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ruby (shadcn-rails)",
+          "description": "Ruby port of shadcn/ui. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 663081431,
+            "language": "HTML",
+            "last_commit": "2025-11-21T04:08:53Z",
+            "owner": "aviflombaum",
+            "repo": "shadcn-rails",
+            "stars": 892
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rust (ouroboros-ui)",
+          "description": "Native Rust/egui port of the shadcn/ui design language. Token-first, with governance tests that fail the build on raw values. Live wasm storybook. Link 2026-07-07",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1260039404,
+            "language": "Rust",
+            "last_commit": "2026-08-07T04:49:07Z",
+            "owner": "Type-zero-labs",
+            "repo": "ouroboros-ui",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solid (shadcn-solid)",
+          "description": "Solid port of shadcn/ui. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 653027476,
+            "language": "TypeScript",
+            "last_commit": "2026-06-17T16:32:18Z",
+            "owner": "hngngn",
+            "repo": "shadcn-solid",
+            "stars": 764
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Svelte (shadcn-svelte)",
+          "description": "Svelte port of shadcn/ui. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 641226132,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T08:01:50Z",
+            "owner": "huntabyte",
+            "repo": "shadcn-svelte",
+            "stars": 9062
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swift (swiftcn-ui)",
+          "description": "Swift port of shadcn/ui. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 694482797,
+            "language": "Swift",
+            "last_commit": "2024-04-24T02:47:57Z",
+            "owner": "Mobilecn-UI",
+            "repo": "swiftcn-ui",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue (shadcn-vue)",
+          "description": "Vue port of shadcn/ui. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 658791894,
+            "language": "TypeScript",
+            "last_commit": "2026-08-22T09:04:53Z",
+            "owner": "unovue",
+            "repo": "shadcn-vue",
+            "stars": 10488
+          }
+        }
+      ],
+      "title": "Ports"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "_cn",
+          "description": "Plug-and-play shadcn/ui registry template, powered by TanStack Start Link 2026-07-04T01:28:12.279Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1212690263,
+            "language": "TypeScript",
+            "last_commit": "2026-05-05T23:22:25Z",
+            "owner": "jakejarvis",
+            "repo": "_cn",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "a11y-starter-kit",
+          "description": "Free WCAG 2.1 AA starter kit with accessible components, custom a11y hooks, and dark mode. Built with Next.js 16, Tailwind CSS v4, and shadcn/ui. Link 2026-04-10T13:58:09.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1176149877,
+            "language": "TypeScript",
+            "last_commit": "2026-04-26T17:28:45Z",
+            "owner": "thefrontkit",
+            "repo": "a11y-starter-kit-code",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "agentic-react-nextjs-shadcn",
+          "description": "Agent-testable SaaS starter built with Next.js 16, shadcn/ui, and Tailwind CSS. Includes accessibility-first components, semantic HTML for AI agent testing, and production-ready patterns. Link 2026-03-03T22:35:00.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1148982793,
+            "language": "TypeScript",
+            "last_commit": "2026-03-03T22:33:08Z",
+            "owner": "iscale-llc",
+            "repo": "agentic-react-nextjs-shadcn",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "astro-erudite",
+          "description": "An opinionated, unstyled static blogging template—built with Astro, Tailwind, and shadcn/ui. Link 2025-10-25T16:15:21.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 855316012,
+            "language": "Astro",
+            "last_commit": "2026-07-27T23:27:21Z",
+            "owner": "jktrn",
+            "repo": "astro-erudite",
+            "stars": 851
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "atomic-crm",
+          "description": "Open-source React CRM built on top of SupabaseDemo site Link 2025-09-23T23:25:16.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 808178636,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T15:15:03Z",
+            "owner": "marmelab",
+            "repo": "atomic-crm",
+            "stars": 1205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "autoflow",
+          "description": "An open source GraphRAG (Knowledge Graph) built on top of TiDB Vector, LlamaIndex, and DSPy.Demo site. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 752946440,
+            "language": "TypeScript",
+            "last_commit": "2026-04-27T13:55:14Z",
+            "owner": "pingcap",
+            "repo": "autoflow",
+            "stars": 2971
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "browser-extension-starter-plasmo-shadcn-trpc",
+          "description": "Browser extension starter kit featuring Plasmo, React, Shadcn, and tRPC. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 879989498,
+            "language": "TypeScript",
+            "last_commit": "2025-12-12T06:03:20Z",
+            "owner": "poweroutlet2",
+            "repo": "browser-extension-starter",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chadnext",
+          "description": "Quick Starter Template includes Next.js 14 App Router, shadcn/ui, LuciaAuth, Prisma, Server Actions, Stripe, Internationalization, and more. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 644861240,
+            "language": "TypeScript",
+            "last_commit": "2025-12-18T12:25:17Z",
+            "owner": "moinulmoin",
+            "repo": "chadnext",
+            "stars": 1323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chatdeck-shadcn-saas-landing-template",
+          "description": "ChatDeck — Free Shadcn UI SaaS landing page template built with Next.js and Tailwind CSS. Link 2026-05-24",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1111521324,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T07:43:30Z",
+            "owner": "ShadcnDeck",
+            "repo": "chatdeck-shadcn-saas-landing-page-template",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cloudflare-saas-stack",
+          "description": "An opinionated, batteries-included starter kit for quickly building and deploying SaaS products on Cloudflare. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 830102284,
+            "language": "TypeScript",
+            "last_commit": "2025-02-15T07:08:55Z",
+            "owner": "supermemoryai",
+            "repo": "cloudflare-saas-stack",
+            "stars": 3740
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "create-next-shadcn-kit",
+          "description": "CLI to scaffold a production-ready Next.js app with shadcn/ui, Tailwind CSS, optional state management (Redux Toolkit/Zustand), and preconfigured tooling like Husky. Link 2026-04-24T19:36:10.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1213732496,
+            "language": "JavaScript",
+            "last_commit": "2026-07-21T04:38:22Z",
+            "owner": "NikunjSonigara",
+            "repo": "create-next-shadcn-kit",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "create-react-shadcn-kit",
+          "description": "CLI to scaffold a production-ready React (Vite) app with shadcn/ui, Tailwind CSS v4, optional Redux Toolkit/Zustand, and preconfigured tooling like Husky and TypeScript. Link 2026-04-24T19:36:10.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1215984973,
+            "language": "JavaScript",
+            "last_commit": "2026-07-14T08:06:32Z",
+            "owner": "NikunjSonigara",
+            "repo": "create-react-shadcn-kit",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "create-tauri-core",
+          "description": "A project template for creating a Tauri app with Vite, React, and Tailwind CSS. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 858157822,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T12:33:36Z",
+            "owner": "MrLightful",
+            "repo": "create-tauri-react",
+            "stars": 234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "create-tauri-ui",
+          "description": "Create modern Tauri desktop apps with shadcn/ui, desktop-first defaults, and optional batteries. Link 2026-03-31T13:03:03.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 594241170,
+            "language": "TypeScript",
+            "last_commit": "2026-08-01T16:51:18Z",
+            "owner": "agmmnn",
+            "repo": "tauri-ui",
+            "stars": 2254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "design-system-template",
+          "description": "Turborepo + TailwindCSS + Storybook + shadcn/ui. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 597452318,
+            "language": "TypeScript",
+            "last_commit": "2025-11-26T03:05:04Z",
+            "owner": "arevalolance",
+            "repo": "design-system-template",
+            "stars": 197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deska-dashboard-template",
+          "description": "A dashboard template built with Nuxt, Tailwind and Shadcn. Link 2026-04-24T19:37:44.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1049113484,
+            "language": "Vue",
+            "last_commit": "2026-08-23T16:12:40Z",
+            "owner": "yaminncco",
+            "repo": "deska-dashboard-template",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "devstarter",
+          "description": "Devstarter is a bold, one-page developer portfolio template with a distinctive cyberpunk aesthetic. Built with Next.js, shadcn/ui, and Tailwind CSS, it's designed to help developers showcase their work, skills, and personality in a way that stands out. Link 2026-01-27T22:06:21.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1128873795,
+            "language": "TypeScript",
+            "last_commit": "2026-01-12T08:17:35Z",
+            "owner": "zippystarter",
+            "repo": "template-devstarter",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "easy-ui",
+          "description": "50+ High Quality Open Source Website Templates built using NextJS + shadcn/ui + Tailwind CSS + Framer Motion and more. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 818133154,
+            "language": "TypeScript",
+            "last_commit": "2026-02-08T12:59:40Z",
+            "owner": "DarkInventor",
+            "repo": "easy-ui",
+            "stars": 610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "electron-shadcn",
+          "description": "Electron app template with shadcn/ui and a bunch of other libs and tools ready to use. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 741963118,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T11:53:46Z",
+            "owner": "LuanRoger",
+            "repo": "electron-shadcn",
+            "stars": 786
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "forjnot",
+          "description": "Modern project starter kit: a full-stack template with Next.js and NestJS in a scalable Turborepo monorepo. Link 2025-11-20T13:32:28.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 970105216,
+            "language": "TypeScript",
+            "last_commit": "2025-12-07T16:36:55Z",
+            "owner": "aman-sharma-dev",
+            "repo": "forjnot",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "full-stack-monorepo-starter",
+          "description": "Full stack monorepo template built using shadcn/ui + Fastify + graphql + vitejs + Docker and more. Link 2025-06-10T16:56:50.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 991429793,
+            "language": "TypeScript",
+            "last_commit": "2025-06-13T07:06:06Z",
+            "owner": "mnove",
+            "repo": "monorepo-starter-graphql",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fumadocs-starter",
+          "description": "A fully-fledged Fumadocs starter template with built-in plugins, AI features, and everything you need to build your next docs site. Link 2025-11-20T13:33:22.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 976150254,
+            "language": "TypeScript",
+            "last_commit": "2026-04-10T07:56:25Z",
+            "owner": "techwithanirudh",
+            "repo": "fumadocs-starter",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-shadcn-admin-dashboard",
+          "description": "Modern Admin Dashboard Template built with Shadcn UI and Next.js 15 Link 2025-10-25T16:04:38.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 836657034,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T20:15:47Z",
+            "owner": "arhamkhnz",
+            "repo": "next-shadcn-admin-dashboard",
+            "stars": 2936
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextMotion",
+          "description": "Webdev portfolio template with Nodemailer integrated for easy contact form setup. Uses shadcn/ui + TailwindCSS + Framer Motion. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 856510282,
+            "language": "TypeScript",
+            "last_commit": "2024-10-18T19:01:28Z",
+            "owner": "yoyocharlie",
+            "repo": "nextMotion",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-js-boilerplate",
+          "description": "Quickly set up a Next.js project with TypeScript, NextAuth.js, PostgreSQL (Prisma), Sentry, Tailwind CSS v4, shadcn/ui, Zod, Zustand, nuqs, ESLint, Husky, and Prettier.Demo site. Link 2025-09-08T13:07:36.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1052142099,
+            "language": "TypeScript",
+            "last_commit": "2026-07-07T00:11:10Z",
+            "owner": "AbhishekSharma55",
+            "repo": "next-js-boilerplate",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-shadcn-dashboard-starter",
+          "description": "Admin Dashboard Starter with Nextjs 14 and shadcn/ui. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 713376647,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T23:11:09Z",
+            "owner": "Kiranism",
+            "repo": "next-shadcn-dashboard-starter",
+            "stars": 6865
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-starter",
+          "description": "A Next.js starter template packed with features like TypeScript, TailwindCSS, Next-auth, Eslint, Stripe, testing tools, and more. Jumpstart your project with efficiency and style. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 744111131,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T13:57:36Z",
+            "owner": "Skolaczk",
+            "repo": "next-starter",
+            "stars": 1002
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-mdx-blog",
+          "description": "Starter template built with Contentlayer, MDX, shadcn/ui, and Tailwind CSS. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 355055846,
+            "language": "TypeScript",
+            "last_commit": "2023-09-18T04:31:48Z",
+            "owner": "ChangoMan",
+            "repo": "nextjs-mdx-blog",
+            "stars": 431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-wp",
+          "description": "Headless Wordpress Starter built with the NextJS App Router and React Server Components. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 795671559,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T19:38:01Z",
+            "owner": "9d8dev",
+            "repo": "next-wp",
+            "stars": 1290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "onyx",
+          "description": "Full stack, batteries-included MVP Template with NextJS 14, Supabase SSR Auth & Postgres DB with CRUD operations, RBAC, Tanstack React Query, Zod Validation, MDX components, Resend, and more. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 749553092,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T14:25:52Z",
+            "owner": "Kronova-Intelligent-Systems",
+            "repo": "asset-intel-orchestration-engine",
+            "stars": 249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openui-shadcn-chat",
+          "description": "Full-stack generative UI chatbot template using OpenUI Lang with shadcn/ui component library, SSE streaming, and tool calling. Link 2026-03-31T13:01:46.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 897268988,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T12:45:19Z",
+            "owner": "thesysdev",
+            "repo": "openui",
+            "stars": 8449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-starter-kit",
+          "description": "An opinionated, full-stack boilerplate for building modern web apps on the edge. Features Bun, React 19, tRPC, Drizzle ORM, and Cloudflare Workers. Link 2025-09-06T15:08:02.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18840003,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T20:58:14Z",
+            "owner": "kriasoft",
+            "repo": "react-starter-kit",
+            "stars": 23669
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-vite-starter",
+          "description": "React starter powered with Vite + Redux Toolkit + RTKQuery + React Router + shadcn UI and many more. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 867993845,
+            "language": "TypeScript",
+            "last_commit": "2026-03-07T02:17:23Z",
+            "owner": "tejachundru",
+            "repo": "react-vite-starter",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-landing-page",
+          "description": "Landing page template using shadcn/ui, React, TypeScript, and Tailwind CSS. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 752082324,
+            "language": "TypeScript",
+            "last_commit": "2024-10-09T06:25:39Z",
+            "owner": "leoMirandaa",
+            "repo": "shadcn-landing-page",
+            "stars": 1974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Project conversionshadcn-vue-landing-page",
+          "description": "to Next.js - Landing page template using Nestjs, shadcn/ui, TypeScript, and Tailwind CSS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 791671179,
+            "language": "Vue",
+            "last_commit": "2024-10-25T16:45:35Z",
+            "owner": "leoMirandaa",
+            "repo": "shadcn-vue-landing-page",
+            "stars": 484
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Link",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 811129726,
+            "language": "TypeScript",
+            "last_commit": "2025-01-16T14:06:11Z",
+            "owner": "nobruf",
+            "repo": "shadcn-landing-page",
+            "stars": 1271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-nextjs-free-boilerplate",
+          "description": "Free & Open-source NextJS Boilerplate + ChatGPT API Dashboard Template. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 802206081,
+            "language": "TypeScript",
+            "last_commit": "2025-01-28T08:48:53Z",
+            "owner": "horizon-ui",
+            "repo": "shadcn-nextjs-boilerplate",
+            "stars": 647
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-nextjs-dashboard",
+          "description": "Admin Dashboard UI built with Shadcn and NextJS. Free and Open-source. Link 2025-07-07T12:18:42.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1006271238,
+            "language": "TypeScript",
+            "last_commit": "2026-01-20T17:02:43Z",
+            "owner": "NaveenDA",
+            "repo": "shadcn-nextjs-dashboard",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-portfolio",
+          "description": "A portfolio template, which uses shadcn-ui and Next.JS. Link 2025-11-20T13:32:59.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 779597137,
+            "language": "TypeScript",
+            "last_commit": "2025-07-27T17:10:32Z",
+            "owner": "techwithanirudh",
+            "repo": "shadcn-portfolio",
+            "stars": 213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-registry-template",
+          "description": "Template repository for building a custom component registry for shadcn/ui. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 850383012,
+            "language": "TypeScript",
+            "last_commit": "2024-08-31T16:21:17Z",
+            "owner": "vantezzen",
+            "repo": "shadcn-registry-template",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-saas-landing",
+          "description": "A full-fledged SaaS Landing template built using Next.JS, shadcn/ui, and fumadocs. Link 2025-11-20T13:31:17.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 969195140,
+            "language": "TypeScript",
+            "last_commit": "2026-01-10T18:37:58Z",
+            "owner": "techwithanirudh",
+            "repo": "shadcn-saas-landing",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "saas-blocks-kit",
+          "description": "10 production-ready SaaS landing page sections built with Next.js 15, shadcn/ui, Tailwind CSS v4 and TypeScript. Dark mode by default. Link 2026-03-31T13:04:58.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1190799509,
+            "language": "TypeScript",
+            "last_commit": "2026-03-24T16:21:48Z",
+            "owner": "SekmenAhmet",
+            "repo": "saas-blocks-kit",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-vue-landing-page",
+          "description": "Landing page template using Vue, shadcn-vue, TypeScript, and Tailwind CSS. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 791671179,
+            "language": "Vue",
+            "last_commit": "2024-10-25T16:45:35Z",
+            "owner": "leoMirandaa",
+            "repo": "shadcn-vue-landing-page",
+            "stars": 484
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-next-workflows",
+          "description": "Interactive workflow builder using React Flows, Next.js, and Shadcn/ui. Create, connect, and validate custom nodes easily. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 870323635,
+            "language": "TypeScript",
+            "last_commit": "2025-01-16T13:59:45Z",
+            "owner": "nobruf",
+            "repo": "shadcn-next-workflows",
+            "stars": 305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-dashboard-landing-template",
+          "description": "Accelerate your development with a sleek, open-source admin dashboard and landing page built on Vite-React, Next.js, Tailwind CSS, and Shadcn/UI which is fully customizable and production-ready Link 2026-07-16T02:06:18.735Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1057889634,
+            "language": "TypeScript",
+            "last_commit": "2026-02-17T07:16:26Z",
+            "owner": "shadcnstore",
+            "repo": "shadcn-dashboard-landing-template",
+            "stars": 1098
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "startercn",
+          "description": "A shadcn/ui registry template with built-in landing page, docs, AI agent ready, and baked-in web haptics, audio, and animations. Link 2026-06-15",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1219935284,
+            "language": "TypeScript",
+            "last_commit": "2026-07-11T19:40:51Z",
+            "owner": "shadcn-labs",
+            "repo": "startercn",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "startx",
+          "description": "Production-ready Turborepo starter featuring Next.js, React Router, shadcn/ui, Tailwind CSS v4, TypeScript, shared packages, authentication, rolldown and scalable project architecture. Link 2026-07-14",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1148864810,
+            "language": "TypeScript",
+            "last_commit": "2026-08-20T10:45:51Z",
+            "owner": "avinashid",
+            "repo": "startx",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "supa-next-shad-auth",
+          "description": "A fully responsive, fully type-safe, secure server actions, user-friendly customizable UI with best practices. Tech used: NextJS + Supabase + TypeScript + Server Actions + Zod + shadcn/ui. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 813731438,
+            "language": "TypeScript",
+            "last_commit": "2026-01-20T14:14:34Z",
+            "owner": "Sahil-Sharma-23",
+            "repo": "supa-next-shad-auth",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sveltekit-shadcn-starter-kit",
+          "description": "Production ready open-source generic app template featuring database abstraction (Drizzle & Postgres), server utilities, tests, authentication (better-auth), i18n + RTL/LTR support, mdsvex, predefined pages and content (policies, legal, etc.), App Shell component, base and custom components built with shadcn/ui, Cookies management (compliance), SEO managemnt support, CLI tooling and more.Demo Link 2025-09-23T23:25:41.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 779186395,
+            "language": "TypeScript",
+            "last_commit": "2026-02-26T20:03:43Z",
+            "owner": "GantonL",
+            "repo": "templates",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "t3-app-template",
+          "description": "Admin template for T3 Stack and shadcn/ui. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 728146855,
+            "language": "TypeScript",
+            "last_commit": "2024-11-01T08:04:22Z",
+            "owner": "gaofubin",
+            "repo": "t3-app-template",
+            "stars": 258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tailwind-admin",
+          "description": "Open Source Shadcn Dashboard Template Built On React and Tailwind CSS Link 2026-01-23T21:23:52.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1049791383,
+            "language": "TypeScript",
+            "last_commit": "2026-05-26T11:49:14Z",
+            "owner": "Tailwind-Admin",
+            "repo": "free-tailwind-admin-dashboard-template",
+            "stars": 263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "taxonomy",
+          "description": "An open-source application built using the new router, server components, and everything new in Next.js. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 553759919,
+            "language": "TypeScript",
+            "last_commit": "2026-04-20T12:01:38Z",
+            "owner": "shadcn-ui",
+            "repo": "taxonomy",
+            "stars": 19286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "turborepo-nextjs-wxt-shadcn-boilerplate",
+          "description": "Turborepo boilerplate featuring web and web-extension apps with shadcn/ui for shared ui components and unified Typescript, ESLint, Tailwind CSS, and Prettier configs. Link 2025-04-24T17:18:07.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 953156028,
+            "language": "TypeScript",
+            "last_commit": "2026-06-28T08:56:51Z",
+            "owner": "Aniket-508",
+            "repo": "turborepo-nextjs-wxt-shadcn-boilerplate",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "turborepo-shadcn-ui-tailwindcss",
+          "description": "Turborepo starter with shadcn/ui & TailwindCSS pre-configured for shared UI components. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 730131718,
+            "language": "TypeScript",
+            "last_commit": "2026-01-31T18:50:22Z",
+            "owner": "henriqpohl",
+            "repo": "turborepo-shadcn-ui-tailwindcss",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "turborepo-launchpad",
+          "description": "A comprehensive monorepo boilerplate for shadcn projects using Turbo. It features a highly scalable setup ideal for developing complex applications with shared components and utilities. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 720595165,
+            "language": "TypeScript",
+            "last_commit": "2025-02-23T20:58:20Z",
+            "owner": "JadRizk",
+            "repo": "turborepo-launchpad",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wordpress-plugin-boilerplate",
+          "description": "WordPress Plugin Boilerplate utilizing modern web technologies and tools such as React, TypeScript, SASS, TailwindCSS, Shadcn UI, Vite, Grunt.js, Storybook, HMR, and more. Link 2024-12-27T12:56:05.000Z",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 764713900,
+            "language": "JavaScript",
+            "last_commit": "2026-06-18T08:19:29Z",
+            "owner": "prappo",
+            "repo": "wordpress-plugin-boilerplate",
+            "stars": 189
+          }
+        }
+      ],
+      "title": "Boilerplates / Templates"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T04:24:06.533Z",
+    "last_updated": "2026-08-24T13:50:07.107Z",
     "original_repository": "birobirobiro/awesome-shadcn-ui",
     "original_repository_id": 753271457,
     "original_repository_sha": "7417bbeae2d214b0991fa49b4a42d2844fa0c54b",
