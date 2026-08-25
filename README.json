@@ -12,7 +12,7 @@
             "archived": false,
             "id": 1256905511,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T20:39:40Z",
+            "last_commit": "2026-08-24T22:06:35Z",
             "owner": "orwa-mahmoud",
             "repo": "adapttable",
             "stars": 32
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 722184017,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:49:54Z",
+            "last_commit": "2026-08-25T04:02:30Z",
             "owner": "assistant-ui",
             "repo": "assistant-ui",
-            "stars": 11808
+            "stars": 11819
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-27T21:46:12Z",
             "owner": "ouestlabs",
             "repo": "audio-ui",
-            "stars": 186
+            "stars": 187
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-07-15T09:18:04Z",
             "owner": "vantezzen",
             "repo": "autoform",
-            "stars": 3486
+            "stars": 3485
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-11T19:08:20Z",
             "owner": "lramos33",
             "repo": "big-calendar",
-            "stars": 1045
+            "stars": 1047
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2026-05-21T15:34:38Z",
             "owner": "vmnog",
             "repo": "calendarcn",
-            "stars": 128
+            "stars": 129
           }
         },
         {
@@ -585,7 +585,7 @@
             "last_commit": "2026-08-16T09:02:14Z",
             "owner": "shadcn-labs",
             "repo": "framecn",
-            "stars": 124
+            "stars": 125
           }
         },
         {
@@ -702,7 +702,7 @@
             "archived": false,
             "id": 1098512962,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T19:27:46Z",
+            "last_commit": "2026-08-24T17:37:26Z",
             "owner": "Johuniq",
             "repo": "jolyui",
             "stars": 260
@@ -915,7 +915,7 @@
             "last_commit": "2026-08-02T23:27:53Z",
             "owner": "ekmas",
             "repo": "neobrutalism-components",
-            "stars": 5322
+            "stars": 5324
           }
         },
         {
@@ -975,7 +975,7 @@
             "last_commit": "2025-01-18T14:26:33Z",
             "owner": "steven-tey",
             "repo": "novel",
-            "stars": 16428
+            "stars": 16427
           }
         },
         {
@@ -1020,7 +1020,7 @@
             "last_commit": "2026-08-17T00:36:46Z",
             "owner": "akii09",
             "repo": "pdfx",
-            "stars": 1170
+            "stars": 1171
           }
         },
         {
@@ -1062,10 +1062,10 @@
             "archived": false,
             "id": 225260962,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:49:37Z",
+            "last_commit": "2026-08-24T19:22:52Z",
             "owner": "udecode",
             "repo": "plate",
-            "stars": 16528
+            "stars": 16529
           }
         },
         {
@@ -1245,7 +1245,7 @@
             "last_commit": "2026-07-21T16:18:31Z",
             "owner": "satnaing",
             "repo": "shadcn-admin",
-            "stars": 14003
+            "stars": 14010
           }
         },
         {
@@ -1440,7 +1440,7 @@
             "last_commit": "2026-05-18T20:03:40Z",
             "owner": "abderrahimghazali",
             "repo": "shadcn-fintech",
-            "stars": 74
+            "stars": 75
           }
         },
         {
@@ -1605,7 +1605,7 @@
             "last_commit": "2026-08-05T10:10:55Z",
             "owner": "shadcnspace",
             "repo": "shadcnspace",
-            "stars": 737
+            "stars": 739
           }
         },
         {
@@ -1650,7 +1650,7 @@
             "last_commit": "2026-06-05T20:33:51Z",
             "owner": "damianricobelli",
             "repo": "stepperize",
-            "stars": 1595
+            "stars": 1594
           }
         },
         {
@@ -1665,7 +1665,7 @@
             "last_commit": "2026-06-14T12:36:24Z",
             "owner": "sadmann7",
             "repo": "tablecn",
-            "stars": 6259
+            "stars": 6260
           }
         },
         {
@@ -1755,7 +1755,7 @@
             "last_commit": "2026-08-20T13:01:22Z",
             "owner": "shadcndashboard",
             "repo": "shadcndashboard",
-            "stars": 420
+            "stars": 423
           }
         },
         {
@@ -1815,7 +1815,7 @@
             "last_commit": "2026-08-24T11:04:21Z",
             "owner": "arihantcodes",
             "repo": "spectrum-ui",
-            "stars": 1024
+            "stars": 1025
           }
         },
         {
@@ -1857,10 +1857,10 @@
             "archived": false,
             "id": 1203405919,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T04:46:58Z",
+            "last_commit": "2026-08-25T02:04:31Z",
             "owner": "bitjaru",
             "repo": "styleseed",
-            "stars": 916
+            "stars": 918
           }
         },
         {
@@ -1965,7 +1965,7 @@
             "last_commit": "2025-10-10T13:08:24Z",
             "owner": "tremorlabs",
             "repo": "tremor",
-            "stars": 3577
+            "stars": 3582
           }
         },
         {
@@ -1992,7 +1992,7 @@
             "archived": false,
             "id": 1201053252,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T09:30:38Z",
+            "last_commit": "2026-08-25T04:03:54Z",
             "owner": "codedthemes",
             "repo": "uiable",
             "stars": 93
@@ -2253,7 +2253,7 @@
             "last_commit": "2026-08-24T02:55:34Z",
             "owner": "al1abb",
             "repo": "invoify",
-            "stars": 6344
+            "stars": 6346
           }
         },
         {
@@ -2268,7 +2268,7 @@
             "last_commit": "2026-08-24T11:09:50Z",
             "owner": "Gsync",
             "repo": "jobsync",
-            "stars": 944
+            "stars": 946
           }
         },
         {
@@ -2313,7 +2313,7 @@
             "last_commit": "2026-07-26T21:20:46Z",
             "owner": "melromyeah",
             "repo": "MixCN",
-            "stars": 7
+            "stars": 8
           }
         },
         {
@@ -2403,7 +2403,7 @@
             "last_commit": "2025-10-28T18:19:40Z",
             "owner": "arkemis-labs",
             "repo": "shadcn-zod-form",
-            "stars": 237
+            "stars": 236
           }
         },
         {
@@ -2604,7 +2604,7 @@
             "last_commit": "2026-08-21T12:15:13Z",
             "owner": "arseneHuot",
             "repo": "openhive",
-            "stars": 67
+            "stars": 68
           }
         },
         {
@@ -2631,10 +2631,10 @@
             "archived": false,
             "id": 1142309893,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:46:54Z",
+            "last_commit": "2026-08-24T23:08:22Z",
             "owner": "BradGroux",
             "repo": "veritas-kanban",
-            "stars": 813
+            "stars": 815
           }
         }
       ],
@@ -2655,7 +2655,7 @@
             "last_commit": "2026-08-24T10:46:18Z",
             "owner": "spartan-ng",
             "repo": "spartan",
-            "stars": 2858
+            "stars": 2860
           }
         },
         {
@@ -2670,7 +2670,7 @@
             "last_commit": "2026-08-24T01:07:12Z",
             "owner": "nank1ro",
             "repo": "flutter-shadcn-ui",
-            "stars": 2785
+            "stars": 2786
           }
         },
         {
@@ -2685,7 +2685,7 @@
             "last_commit": "2026-08-23T12:00:47Z",
             "owner": "axadrn",
             "repo": "shadcn-templ",
-            "stars": 1717
+            "stars": 1718
           }
         },
         {
@@ -2730,7 +2730,7 @@
             "last_commit": "2026-07-19T08:03:51Z",
             "owner": "accntech",
             "repo": "shad-ui",
-            "stars": 540
+            "stars": 542
           }
         },
         {
@@ -2790,7 +2790,7 @@
             "last_commit": "2026-07-02T14:22:00Z",
             "owner": "founded-labs",
             "repo": "react-native-reusables",
-            "stars": 8617
+            "stars": 8618
           }
         },
         {
@@ -2865,7 +2865,7 @@
             "last_commit": "2026-08-09T08:01:50Z",
             "owner": "huntabyte",
             "repo": "shadcn-svelte",
-            "stars": 9062
+            "stars": 9064
           }
         },
         {
@@ -2895,7 +2895,7 @@
             "last_commit": "2026-08-22T09:04:53Z",
             "owner": "unovue",
             "repo": "shadcn-vue",
-            "stars": 10488
+            "stars": 10487
           }
         }
       ],
@@ -2976,7 +2976,7 @@
             "last_commit": "2026-08-21T15:15:03Z",
             "owner": "marmelab",
             "repo": "atomic-crm",
-            "stars": 1205
+            "stars": 1206
           }
         },
         {
@@ -3111,7 +3111,7 @@
             "last_commit": "2026-08-01T16:51:18Z",
             "owner": "agmmnn",
             "repo": "tauri-ui",
-            "stars": 2254
+            "stars": 2256
           }
         },
         {
@@ -3246,7 +3246,7 @@
             "last_commit": "2026-08-21T20:15:47Z",
             "owner": "arhamkhnz",
             "repo": "next-shadcn-admin-dashboard",
-            "stars": 2936
+            "stars": 2942
           }
         },
         {
@@ -3288,10 +3288,10 @@
             "archived": false,
             "id": 713376647,
             "language": "TypeScript",
-            "last_commit": "2026-08-08T23:11:09Z",
+            "last_commit": "2026-08-24T22:10:35Z",
             "owner": "Kiranism",
             "repo": "next-shadcn-dashboard-starter",
-            "stars": 6865
+            "stars": 6868
           }
         },
         {
@@ -3363,10 +3363,10 @@
             "archived": false,
             "id": 897268988,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:45:19Z",
+            "last_commit": "2026-08-24T19:06:11Z",
             "owner": "thesysdev",
             "repo": "openui",
-            "stars": 8449
+            "stars": 8451
           }
         },
         {
@@ -3381,7 +3381,7 @@
             "last_commit": "2026-08-23T20:58:14Z",
             "owner": "kriasoft",
             "repo": "react-starter-kit",
-            "stars": 23669
+            "stars": 23670
           }
         },
         {
@@ -3411,7 +3411,7 @@
             "last_commit": "2024-10-09T06:25:39Z",
             "owner": "leoMirandaa",
             "repo": "shadcn-landing-page",
-            "stars": 1974
+            "stars": 1975
           }
         },
         {
@@ -3576,7 +3576,7 @@
             "last_commit": "2026-02-17T07:16:26Z",
             "owner": "shadcnstore",
             "repo": "shadcn-dashboard-landing-template",
-            "stars": 1098
+            "stars": 1099
           }
         },
         {
@@ -3681,7 +3681,7 @@
             "last_commit": "2026-04-20T12:01:38Z",
             "owner": "shadcn-ui",
             "repo": "taxonomy",
-            "stars": 19286
+            "stars": 19285
           }
         },
         {
@@ -3749,7 +3749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:50:07.107Z",
+    "last_updated": "2026-08-25T04:11:48.858Z",
     "original_repository": "birobirobiro/awesome-shadcn-ui",
     "original_repository_id": 753271457,
     "original_repository_sha": "7417bbeae2d214b0991fa49b4a42d2844fa0c54b",
