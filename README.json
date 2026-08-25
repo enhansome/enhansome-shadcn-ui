@@ -57,7 +57,7 @@
             "archived": false,
             "id": 722184017,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T04:02:30Z",
+            "last_commit": "2026-08-25T05:45:32Z",
             "owner": "assistant-ui",
             "repo": "assistant-ui",
             "stars": 11819
@@ -915,7 +915,7 @@
             "last_commit": "2026-08-02T23:27:53Z",
             "owner": "ekmas",
             "repo": "neobrutalism-components",
-            "stars": 5324
+            "stars": 5325
           }
         },
         {
@@ -2268,7 +2268,7 @@
             "last_commit": "2026-08-24T11:09:50Z",
             "owner": "Gsync",
             "repo": "jobsync",
-            "stars": 946
+            "stars": 947
           }
         },
         {
@@ -2343,7 +2343,7 @@
             "last_commit": "2026-04-26T10:45:53Z",
             "owner": "Quorin",
             "repo": "PasteCode.app",
-            "stars": 114
+            "stars": 115
           }
         },
         {
@@ -2670,7 +2670,7 @@
             "last_commit": "2026-08-24T01:07:12Z",
             "owner": "nank1ro",
             "repo": "flutter-shadcn-ui",
-            "stars": 2786
+            "stars": 2787
           }
         },
         {
@@ -2715,7 +2715,7 @@
             "last_commit": "2026-08-17T18:46:59Z",
             "owner": "asiffer",
             "repo": "mkdocs-shadcn",
-            "stars": 207
+            "stars": 208
           }
         },
         {
@@ -3111,7 +3111,7 @@
             "last_commit": "2026-08-01T16:51:18Z",
             "owner": "agmmnn",
             "repo": "tauri-ui",
-            "stars": 2256
+            "stars": 2257
           }
         },
         {
@@ -3291,7 +3291,7 @@
             "last_commit": "2026-08-24T22:10:35Z",
             "owner": "Kiranism",
             "repo": "next-shadcn-dashboard-starter",
-            "stars": 6868
+            "stars": 6869
           }
         },
         {
@@ -3381,7 +3381,7 @@
             "last_commit": "2026-08-23T20:58:14Z",
             "owner": "kriasoft",
             "repo": "react-starter-kit",
-            "stars": 23670
+            "stars": 23669
           }
         },
         {
@@ -3749,7 +3749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:11:48.858Z",
+    "last_updated": "2026-08-25T05:45:32.907Z",
     "original_repository": "birobirobiro/awesome-shadcn-ui",
     "original_repository_id": 753271457,
     "original_repository_sha": "7417bbeae2d214b0991fa49b4a42d2844fa0c54b",
