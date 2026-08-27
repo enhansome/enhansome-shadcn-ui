@@ -15,7 +15,7 @@
             "last_commit": "2026-08-26T20:04:18Z",
             "owner": "orwa-mahmoud",
             "repo": "adapttable",
-            "stars": 34
+            "stars": 37
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 722184017,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T12:05:16Z",
+            "last_commit": "2026-08-27T13:57:06Z",
             "owner": "assistant-ui",
             "repo": "assistant-ui",
-            "stars": 11876
+            "stars": 11879
           }
         },
         {
@@ -795,7 +795,7 @@
             "last_commit": "2026-07-21T08:40:39Z",
             "owner": "arikchakma",
             "repo": "maily.to",
-            "stars": 3950
+            "stars": 3951
           }
         },
         {
@@ -1020,7 +1020,7 @@
             "last_commit": "2026-08-17T00:36:46Z",
             "owner": "akii09",
             "repo": "pdfx",
-            "stars": 1171
+            "stars": 1172
           }
         },
         {
@@ -1065,7 +1065,7 @@
             "last_commit": "2026-08-27T03:43:02Z",
             "owner": "udecode",
             "repo": "plate",
-            "stars": 16535
+            "stars": 16536
           }
         },
         {
@@ -1170,7 +1170,7 @@
             "last_commit": "2026-05-04T06:00:08Z",
             "owner": "shadcnblocks",
             "repo": "kibo",
-            "stars": 3915
+            "stars": 3916
           }
         },
         {
@@ -1245,7 +1245,7 @@
             "last_commit": "2026-07-21T16:18:31Z",
             "owner": "satnaing",
             "repo": "shadcn-admin",
-            "stars": 14032
+            "stars": 14034
           }
         },
         {
@@ -1512,7 +1512,7 @@
             "archived": false,
             "id": 784949119,
             "language": "TypeScript",
-            "last_commit": "2025-12-13T19:27:14Z",
+            "last_commit": "2026-08-27T12:48:05Z",
             "owner": "sersavan",
             "repo": "shadcn-multi-select-component",
             "stars": 2209
@@ -1605,7 +1605,7 @@
             "last_commit": "2026-08-05T10:10:55Z",
             "owner": "shadcnspace",
             "repo": "shadcnspace",
-            "stars": 742
+            "stars": 743
           }
         },
         {
@@ -1755,7 +1755,7 @@
             "last_commit": "2026-08-20T13:01:22Z",
             "owner": "shadcndashboard",
             "repo": "shadcndashboard",
-            "stars": 433
+            "stars": 434
           }
         },
         {
@@ -2634,7 +2634,7 @@
             "last_commit": "2026-08-24T23:08:22Z",
             "owner": "BradGroux",
             "repo": "veritas-kanban",
-            "stars": 817
+            "stars": 818
           }
         }
       ],
@@ -2655,7 +2655,7 @@
             "last_commit": "2026-08-27T11:17:05Z",
             "owner": "spartan-ng",
             "repo": "spartan",
-            "stars": 2867
+            "stars": 2866
           }
         },
         {
@@ -2865,7 +2865,7 @@
             "last_commit": "2026-08-26T11:09:32Z",
             "owner": "huntabyte",
             "repo": "shadcn-svelte",
-            "stars": 9061
+            "stars": 9060
           }
         },
         {
@@ -2895,7 +2895,7 @@
             "last_commit": "2026-08-26T08:50:40Z",
             "owner": "unovue",
             "repo": "shadcn-vue",
-            "stars": 10502
+            "stars": 10503
           }
         }
       ],
@@ -2976,7 +2976,7 @@
             "last_commit": "2026-08-21T15:15:03Z",
             "owner": "marmelab",
             "repo": "atomic-crm",
-            "stars": 1207
+            "stars": 1208
           }
         },
         {
@@ -3198,7 +3198,7 @@
             "archived": false,
             "id": 970105216,
             "language": "TypeScript",
-            "last_commit": "2025-12-07T16:36:55Z",
+            "last_commit": "2026-08-27T14:32:30Z",
             "owner": "aman-sharma-dev",
             "repo": "forjnot",
             "stars": 1
@@ -3363,7 +3363,7 @@
             "archived": false,
             "id": 897268988,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T10:35:01Z",
+            "last_commit": "2026-08-27T14:25:40Z",
             "owner": "thesysdev",
             "repo": "openui",
             "stars": 8469
@@ -3681,7 +3681,7 @@
             "last_commit": "2026-04-20T12:01:38Z",
             "owner": "shadcn-ui",
             "repo": "taxonomy",
-            "stars": 19289
+            "stars": 19288
           }
         },
         {
@@ -3749,7 +3749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:06:53.739Z",
+    "last_updated": "2026-08-27T14:33:35.972Z",
     "original_repository_info": {
       "archived": false,
       "id": 753271457,
@@ -3757,7 +3757,7 @@
       "last_commit": "2026-08-24T03:57:40Z",
       "owner": "birobirobiro",
       "repo": "awesome-shadcn-ui",
-      "stars": 20387
+      "stars": 20390
     },
     "original_repository_sha": "7417bbeae2d214b0991fa49b4a42d2844fa0c54b",
     "enhanced_repository": "enhansome/enhansome-shadcn-ui",
