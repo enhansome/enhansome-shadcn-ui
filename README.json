@@ -95,11 +95,11 @@
             "id": 722184017,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T04:09:14Z",
-            "open_issues": 90,
+            "last_commit": "2026-08-29T10:22:19Z",
+            "open_issues": 88,
             "owner": "assistant-ui",
             "repo": "assistant-ui",
-            "stars": 11908,
+            "stars": 11912,
             "topics": [
               "ai-chatbot",
               "base-ui",
@@ -686,7 +686,7 @@
             "open_issues": 67,
             "owner": "sadmann7",
             "repo": "diceui",
-            "stars": 2061,
+            "stars": 2062,
             "topics": [
               "accesibility",
               "react",
@@ -1594,7 +1594,7 @@
             "open_issues": 11,
             "owner": "ekmas",
             "repo": "neobrutalism-components",
-            "stars": 5336,
+            "stars": 5337,
             "topics": [
               "neobrutalism",
               "neobrutalism-components",
@@ -1874,7 +1874,7 @@
             "id": 225260962,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T02:45:38Z",
+            "last_commit": "2026-08-29T09:41:48Z",
             "open_issues": 14,
             "owner": "udecode",
             "repo": "plate",
@@ -2048,7 +2048,7 @@
             "open_issues": 33,
             "owner": "shadcnblocks",
             "repo": "kibo",
-            "stars": 3916,
+            "stars": 3915,
             "topics": [
               "accessible",
               "components",
@@ -2177,7 +2177,7 @@
             "open_issues": 22,
             "owner": "satnaing",
             "repo": "shadcn-admin",
-            "stars": 14051,
+            "stars": 14055,
             "topics": [
               "admin-dashboard",
               "admin-panel",
@@ -2813,7 +2813,7 @@
             "open_issues": 1,
             "owner": "shadcnspace",
             "repo": "shadcnspace",
-            "stars": 743,
+            "stars": 744,
             "topics": [
               "base-ui",
               "component-library",
@@ -3293,7 +3293,7 @@
             "open_issues": 11,
             "owner": "bitjaru",
             "repo": "styleseed",
-            "stars": 926,
+            "stars": 928,
             "topics": [
               "agent-skills",
               "ai-coding",
@@ -4577,7 +4577,7 @@
             "id": 569390915,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-22T23:58:33Z",
+            "last_commit": "2026-08-29T09:53:28Z",
             "open_issues": 20,
             "owner": "rajput-hemant",
             "repo": "infinitunes",
@@ -4854,7 +4854,7 @@
             "open_issues": 1,
             "owner": "axadrn",
             "repo": "shadcn-templ",
-            "stars": 1727,
+            "stars": 1726,
             "topics": [
               "design-system",
               "go",
@@ -4975,7 +4975,7 @@
             "open_issues": 5,
             "owner": "bluzky",
             "repo": "salad_ui",
-            "stars": 1050,
+            "stars": 1049,
             "topics": [
               "elixir",
               "liveview",
@@ -5197,7 +5197,7 @@
             "open_issues": 126,
             "owner": "huntabyte",
             "repo": "shadcn-svelte",
-            "stars": 9063,
+            "stars": 9064,
             "topics": [
               "bits-ui",
               "shadcn-svelte",
@@ -5256,7 +5256,7 @@
             "open_issues": 138,
             "owner": "unovue",
             "repo": "shadcn-vue",
-            "stars": 10510,
+            "stars": 10513,
             "topics": [
               "accessible",
               "component-library",
@@ -6084,8 +6084,8 @@
             "id": 744111131,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-23T13:57:36Z",
-            "open_issues": 0,
+            "last_commit": "2026-08-29T06:10:17Z",
+            "open_issues": 1,
             "owner": "Skolaczk",
             "repo": "next-starter",
             "stars": 1001,
@@ -6155,7 +6155,7 @@
             "open_issues": 1,
             "owner": "9d8dev",
             "repo": "next-wp",
-            "stars": 1292,
+            "stars": 1291,
             "topics": [
               "craft-ds",
               "headless-cms",
@@ -6223,11 +6223,11 @@
             "id": 897268988,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T18:43:30Z",
+            "last_commit": "2026-08-29T09:57:31Z",
             "open_issues": 144,
             "owner": "thesysdev",
             "repo": "openui",
-            "stars": 8480,
+            "stars": 8481,
             "topics": [
               "agent",
               "agents",
@@ -6257,7 +6257,7 @@
             "open_issues": 9,
             "owner": "kriasoft",
             "repo": "react-starter-kit",
-            "stars": 23671,
+            "stars": 23670,
             "topics": [
               "better-auth",
               "boilerplate",
@@ -6636,7 +6636,7 @@
             "open_issues": 4,
             "owner": "shadcnstore",
             "repo": "shadcn-dashboard-landing-template",
-            "stars": 1111,
+            "stars": 1112,
             "topics": [
               "admin-dashboard",
               "admin-panel",
@@ -6816,7 +6816,7 @@
             "open_issues": 1,
             "owner": "Tailwind-Admin",
             "repo": "free-tailwind-admin-dashboard-template",
-            "stars": 265,
+            "stars": 267,
             "topics": [
               "admin",
               "admin-dashboards",
@@ -7015,7 +7015,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:11:16.277Z",
+    "last_updated": "2026-08-29T10:23:21.488Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to shadcn/ui.",
@@ -7023,11 +7023,11 @@
       "id": 753271457,
       "language": "TypeScript",
       "license": "MIT",
-      "last_commit": "2026-08-24T03:57:40Z",
-      "open_issues": 33,
+      "last_commit": "2026-08-29T06:59:35Z",
+      "open_issues": 34,
       "owner": "birobirobiro",
       "repo": "awesome-shadcn-ui",
-      "stars": 20403,
+      "stars": 20401,
       "topics": [
         "awesome",
         "awesome-list",
