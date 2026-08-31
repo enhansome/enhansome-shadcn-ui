@@ -78,7 +78,7 @@
             "open_issues": 0,
             "owner": "mehrdadrafiee",
             "repo": "animated-tabs",
-            "stars": 138,
+            "stars": 139,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:25.832Z"
@@ -95,11 +95,11 @@
             "id": 722184017,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T05:19:02Z",
-            "open_issues": 94,
+            "last_commit": "2026-08-31T09:55:57Z",
+            "open_issues": 89,
             "owner": "assistant-ui",
             "repo": "assistant-ui",
-            "stars": 11923,
+            "stars": 11942,
             "topics": [
               "ai-chatbot",
               "base-ui",
@@ -249,7 +249,7 @@
             "open_issues": 0,
             "owner": "commet-labs",
             "repo": "billui",
-            "stars": 37,
+            "stars": 38,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:25.832Z"
@@ -490,7 +490,7 @@
             "open_issues": 0,
             "owner": "harshjdhv",
             "repo": "componentry",
-            "stars": 464,
+            "stars": 465,
             "topics": [
               "components",
               "components-library",
@@ -1102,7 +1102,7 @@
             "open_issues": 11,
             "owner": "ibelick",
             "repo": "background-snippets",
-            "stars": 2027,
+            "stars": 2028,
             "topics": [
               "background",
               "css",
@@ -1350,7 +1350,7 @@
             "open_issues": 0,
             "owner": "mahmoudilyan",
             "repo": "marmoui",
-            "stars": 47,
+            "stars": 42,
             "topics": [
               "ai-agents",
               "claude",
@@ -1594,7 +1594,7 @@
             "open_issues": 11,
             "owner": "ekmas",
             "repo": "neobrutalism-components",
-            "stars": 5338,
+            "stars": 5339,
             "topics": [
               "neobrutalism",
               "neobrutalism-components",
@@ -1729,7 +1729,7 @@
             "open_issues": 2,
             "owner": "shadcn-labs",
             "repo": "ogimagecn",
-            "stars": 155,
+            "stars": 156,
             "topics": [
               "ogimage",
               "react",
@@ -1878,7 +1878,7 @@
             "open_issues": 14,
             "owner": "udecode",
             "repo": "plate",
-            "stars": 16543,
+            "stars": 16544,
             "topics": [
               "ai",
               "mcp",
@@ -2077,7 +2077,7 @@
             "open_issues": 2,
             "owner": "baxy5",
             "repo": "scificn-ui",
-            "stars": 113,
+            "stars": 114,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:25.832Z"
@@ -2123,7 +2123,7 @@
             "open_issues": 9,
             "owner": "Qualiora",
             "repo": "shadboard",
-            "stars": 712,
+            "stars": 714,
             "topics": [
               "admin",
               "dashboard",
@@ -2177,7 +2177,7 @@
             "open_issues": 22,
             "owner": "satnaing",
             "repo": "shadcn-admin",
-            "stars": 14064,
+            "stars": 14073,
             "topics": [
               "admin-dashboard",
               "admin-panel",
@@ -2706,7 +2706,7 @@
             "id": 917507832,
             "language": "CSS",
             "license": "MIT",
-            "last_commit": "2026-08-24T00:55:58Z",
+            "last_commit": "2026-08-31T03:00:11Z",
             "open_issues": 0,
             "owner": "anuoua",
             "repo": "shadcn-packaged",
@@ -2928,7 +2928,7 @@
             "open_issues": 42,
             "owner": "sadmann7",
             "repo": "tablecn",
-            "stars": 6263,
+            "stars": 6264,
             "topics": [
               "data-grid",
               "data-table",
@@ -3102,7 +3102,7 @@
             "open_issues": 0,
             "owner": "shadcndashboard",
             "repo": "shadcndashboard",
-            "stars": 436,
+            "stars": 438,
             "topics": [
               "admin",
               "admin-dashboard",
@@ -3214,8 +3214,8 @@
             "id": 875103769,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-30T08:48:49Z",
-            "open_issues": 7,
+            "last_commit": "2026-08-30T13:34:58Z",
+            "open_issues": 6,
             "owner": "arihantcodes",
             "repo": "spectrum-ui",
             "stars": 1025,
@@ -3293,7 +3293,7 @@
             "open_issues": 11,
             "owner": "bitjaru",
             "repo": "styleseed",
-            "stars": 928,
+            "stars": 931,
             "topics": [
               "agent-skills",
               "ai-coding",
@@ -3566,7 +3566,7 @@
             "open_issues": 0,
             "owner": "codedthemes",
             "repo": "uiable",
-            "stars": 99,
+            "stars": 98,
             "topics": [
               "base-ui",
               "components",
@@ -3637,7 +3637,7 @@
             "open_issues": 2,
             "owner": "domidex01",
             "repo": "tour-kit",
-            "stars": 63,
+            "stars": 64,
             "topics": [
               "accessibility",
               "headless-ui",
@@ -3722,7 +3722,7 @@
             "open_issues": 0,
             "owner": "whatisjery",
             "repo": "atelier-ui",
-            "stars": 14,
+            "stars": 15,
             "topics": [
               "animation-library",
               "awwwards",
@@ -3756,7 +3756,7 @@
             "open_issues": 0,
             "owner": "michaelsieminski",
             "repo": "neobrutalism-vue",
-            "stars": 41,
+            "stars": 42,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:25.832Z"
@@ -3774,7 +3774,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-28T19:16:06Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "rbadillap",
             "repo": "registry.directory",
             "stars": 76,
@@ -4079,11 +4079,11 @@
             "id": 804067963,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T17:37:08Z",
+            "last_commit": "2026-08-31T01:28:58Z",
             "open_issues": 23,
             "owner": "Gsync",
             "repo": "jobsync",
-            "stars": 961,
+            "stars": 962,
             "topics": [
               "ai-agent",
               "ai-resume-analyzer",
@@ -4125,7 +4125,7 @@
             "open_issues": 18,
             "owner": "memfreeme",
             "repo": "memfree",
-            "stars": 1506,
+            "stars": 1505,
             "topics": [
               "ai",
               "ai-search",
@@ -4161,7 +4161,7 @@
             "open_issues": 3,
             "owner": "memi-design",
             "repo": "memi",
-            "stars": 39,
+            "stars": 40,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -4396,7 +4396,7 @@
             "open_issues": 5,
             "owner": "rbbydotdev",
             "repo": "someday",
-            "stars": 1062,
+            "stars": 1064,
             "topics": [
               "google-apps-script",
               "react",
@@ -4499,7 +4499,7 @@
             "open_issues": 2,
             "owner": "olliethedev",
             "repo": "ui-builder",
-            "stars": 660,
+            "stars": 659,
             "topics": [
               "no-code",
               "reactjs",
@@ -4748,11 +4748,11 @@
             "id": 1142309893,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T09:19:14Z",
-            "open_issues": 16,
+            "last_commit": "2026-08-30T13:52:19Z",
+            "open_issues": 8,
             "owner": "BradGroux",
             "repo": "veritas-kanban",
-            "stars": 819,
+            "stars": 821,
             "topics": [
               "agents",
               "ai-agents",
@@ -4800,7 +4800,7 @@
             "open_issues": 79,
             "owner": "spartan-ng",
             "repo": "spartan",
-            "stars": 2871,
+            "stars": 2873,
             "topics": [
               "accessibility",
               "analogjs",
@@ -4854,7 +4854,7 @@
             "open_issues": 1,
             "owner": "axadrn",
             "repo": "shadcn-templ",
-            "stars": 1727,
+            "stars": 1729,
             "topics": [
               "design-system",
               "go",
@@ -4924,11 +4924,11 @@
             "id": 926106908,
             "language": "CSS",
             "license": "MIT",
-            "last_commit": "2026-08-29T14:10:53Z",
-            "open_issues": 9,
+            "last_commit": "2026-08-30T13:52:44Z",
+            "open_issues": 12,
             "owner": "asiffer",
             "repo": "mkdocs-shadcn",
-            "stars": 208,
+            "stars": 209,
             "topics": [
               "mkdocs",
               "mkdocs-theme",
@@ -4954,7 +4954,7 @@
             "open_issues": 4,
             "owner": "accntech",
             "repo": "shad-ui",
-            "stars": 545,
+            "stars": 544,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:25.832Z"
@@ -5194,10 +5194,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-27T14:53:13Z",
-            "open_issues": 126,
+            "open_issues": 127,
             "owner": "huntabyte",
             "repo": "shadcn-svelte",
-            "stars": 9066,
+            "stars": 9071,
             "topics": [
               "bits-ui",
               "shadcn-svelte",
@@ -5256,7 +5256,7 @@
             "open_issues": 138,
             "owner": "unovue",
             "repo": "shadcn-vue",
-            "stars": 10518,
+            "stars": 10523,
             "topics": [
               "accessible",
               "component-library",
@@ -5449,7 +5449,7 @@
             "open_issues": 74,
             "owner": "pingcap",
             "repo": "autoflow",
-            "stars": 2972,
+            "stars": 2971,
             "topics": [
               "chatbot",
               "cot",
@@ -5500,7 +5500,7 @@
             "open_issues": 17,
             "owner": "moinulmoin",
             "repo": "chadnext",
-            "stars": 1322,
+            "stars": 1323,
             "topics": [
               "hacktoberfest",
               "lucia-auth",
@@ -5696,7 +5696,7 @@
             "open_issues": 2,
             "owner": "agmmnn",
             "repo": "tauri-ui",
-            "stars": 2262,
+            "stars": 2263,
             "topics": [
               "base-ui",
               "boilerplate",
@@ -5972,7 +5972,7 @@
             "open_issues": 6,
             "owner": "arhamkhnz",
             "repo": "next-shadcn-admin-dashboard",
-            "stars": 2952,
+            "stars": 2958,
             "topics": [
               "admin-dashboard",
               "admin-dashboard-ui",
@@ -6055,7 +6055,7 @@
             "open_issues": 6,
             "owner": "Kiranism",
             "repo": "next-shadcn-dashboard-starter",
-            "stars": 6905,
+            "stars": 6912,
             "topics": [
               "admin-dashboard",
               "admin-template",
@@ -6223,11 +6223,11 @@
             "id": 897268988,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T05:50:27Z",
-            "open_issues": 145,
+            "last_commit": "2026-08-31T09:23:07Z",
+            "open_issues": 148,
             "owner": "thesysdev",
             "repo": "openui",
-            "stars": 8487,
+            "stars": 8493,
             "topics": [
               "agent",
               "agents",
@@ -6253,11 +6253,11 @@
             "id": 18840003,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-23T20:58:14Z",
+            "last_commit": "2026-08-31T04:16:14Z",
             "open_issues": 9,
             "owner": "kriasoft",
             "repo": "react-starter-kit",
-            "stars": 23671,
+            "stars": 23673,
             "topics": [
               "better-auth",
               "boilerplate",
@@ -6362,7 +6362,7 @@
             "open_issues": 1,
             "owner": "leoMirandaa",
             "repo": "shadcn-vue-landing-page",
-            "stars": 483,
+            "stars": 484,
             "topics": [
               "darkmode",
               "radix-vue",
@@ -6421,7 +6421,7 @@
             "open_issues": 2,
             "owner": "horizon-ui",
             "repo": "shadcn-nextjs-boilerplate",
-            "stars": 646,
+            "stars": 645,
             "topics": [
               "admin-dashboard",
               "admin-template",
@@ -6541,7 +6541,7 @@
             "open_issues": 0,
             "owner": "techwithanirudh",
             "repo": "shadcn-saas-landing",
-            "stars": 67,
+            "stars": 68,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:25.832Z"
@@ -6583,7 +6583,7 @@
             "open_issues": 1,
             "owner": "leoMirandaa",
             "repo": "shadcn-vue-landing-page",
-            "stars": 483,
+            "stars": 484,
             "topics": [
               "darkmode",
               "radix-vue",
@@ -6636,7 +6636,7 @@
             "open_issues": 4,
             "owner": "shadcnstore",
             "repo": "shadcn-dashboard-landing-template",
-            "stars": 1112,
+            "stars": 1113,
             "topics": [
               "admin-dashboard",
               "admin-panel",
@@ -6816,7 +6816,7 @@
             "open_issues": 1,
             "owner": "Tailwind-Admin",
             "repo": "free-tailwind-admin-dashboard-template",
-            "stars": 267,
+            "stars": 266,
             "topics": [
               "admin",
               "admin-dashboards",
@@ -6856,7 +6856,7 @@
             "open_issues": 218,
             "owner": "shadcn-ui",
             "repo": "taxonomy",
-            "stars": 19289,
+            "stars": 19288,
             "topics": [
               "nextauthjs",
               "nextjs",
@@ -7015,7 +7015,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T09:26:42.719Z",
+    "last_updated": "2026-08-31T10:02:41.505Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to shadcn/ui.",
@@ -7023,11 +7023,11 @@
       "id": 753271457,
       "language": "TypeScript",
       "license": "MIT",
-      "last_commit": "2026-08-29T22:31:17Z",
-      "open_issues": 35,
+      "last_commit": "2026-08-31T03:21:12Z",
+      "open_issues": 36,
       "owner": "birobirobiro",
       "repo": "awesome-shadcn-ui",
-      "stars": 20415,
+      "stars": 20417,
       "topics": [
         "awesome",
         "awesome-list",
@@ -7039,7 +7039,7 @@
         "shadcn-ui"
       ]
     },
-    "original_repository_sha": "7417bbeae2d214b0991fa49b4a42d2844fa0c54b",
+    "original_repository_sha": "41731543001906e664eeee7908403a8482f894c2",
     "enhanced_repository": "enhansome/enhansome-shadcn-ui",
     "enhanced_repository_description": null,
     "title": "Awesome shadcn ui with stars"
